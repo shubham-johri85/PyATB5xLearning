@@ -5,27 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="12th November">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab047_if_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab048_Grade_Calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab049_Task 1_Triangle Classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab050_Task 2_Leap Year Checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab052_For Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab053_For Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab056_While_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab057_For_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab058_For_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab059_Question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab060_Pass_Break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab061_Question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab062_continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab063_Match_Statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab064_Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab065_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab066_Functions_Part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab067_Functions_Part3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab068_Functions_Pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions_Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab070_Functions_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab071_Functions_Types 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab072_Functions_Interview_Questions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab073_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab074_Args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab075_Real_exmpl.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab044_Task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab044_Task 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab046_Task 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab046_Task 3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,14 +110,26 @@
     "Python.Lab062_continue.executor": "Run",
     "Python.Lab063_Match_Statement.executor": "Run",
     "Python.Lab064_Task.executor": "Run",
+    "Python.Lab065_Functions.executor": "Run",
+    "Python.Lab066_Functions_Part2.executor": "Run",
+    "Python.Lab067_Functions_Part3.executor": "Run",
+    "Python.Lab068_Functions_Pass.executor": "Run",
+    "Python.Lab069_Functions_Types.executor": "Run",
+    "Python.Lab070_Functions_input.executor": "Run",
+    "Python.Lab071_Functions_Types 2.executor": "Run",
+    "Python.Lab072_Functions_Interview_Questions.executor": "Run",
+    "Python.Lab073_IQ.executor": "Run",
+    "Python.Lab074_Args.executor": "Run",
+    "Python.Lab075_Real_exmpl.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Nov/ex_16112024_Loops"
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Nov/ex_19112024_Functions"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Nov\ex_19112024_Functions" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Nov\ex_16112024_Loops" />
     </key>
   </component>
