@@ -10,7 +10,7 @@ num3 = int(input("Enter third number\n"))
 
 def sum(num1=100, num2=200, num3=300):
     return num1 + num2 + num3
-
+2
 
 result = sum(num1, num2, num3)
 print(result)

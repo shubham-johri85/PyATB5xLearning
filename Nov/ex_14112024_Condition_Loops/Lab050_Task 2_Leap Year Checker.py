@@ -8,7 +8,7 @@ Use an if-else statement to make this determination.
 
 y = int(input("Enter the year\n"))
 
-if y%4==0 or y%400==0 and y%100!=0:
+if (y%4==0 and y%100!=0) or (y%400==0):
     print("It is a leap year")
 else:
     print("It is not a leap year")

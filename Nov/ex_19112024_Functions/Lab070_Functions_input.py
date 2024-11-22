@@ -7,4 +7,4 @@ user_name = input("Enter your name\n")
 def say_hello(name):
      print("hello", name)
 
-say_hello(user_name) # No need to pass variable in parameters while defining function
+say_hello(user_name) # No need to pass exact same variable name in parameters while defining function
