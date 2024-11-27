@@ -4,31 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="21st November">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab087_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab088_Lambda 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab089_Lambda 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab090_Lambda4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab091_Lambda_Multiple_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab092_Lambda_Multiple_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab093_Lambda_real_use.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab094_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab095_List_Reassigning_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab096_List_for_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab097_List_Index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab098_List_append().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab099_List_extend().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab100_List_insert().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab101_List_remove().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab102_List_Sorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab103_List_pop().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab104_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab105_Tuple 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab106_Tuple3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab107_SET.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab108_SET 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab109_SET 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab110_SET_IQ.py" afterDir="false" />
+    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="23rd November">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab111_Dict..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab112_Dict_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab113_Multiple_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab114_Multiple_Dict_Question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab115_Dict_Concepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab116_Dict_Interview Question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab117_Dict_Missing_Key.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab118_Dict_Interview Question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab119_Dict_Interview Question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab120_Dict_Question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab121_Dict_Question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab122_Dict_Interview Question.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,14 +158,27 @@
     "Python.Lab107_SET.executor": "Run",
     "Python.Lab109_SET 3.executor": "Run",
     "Python.Lab110_SET_IQ.executor": "Run",
+    "Python.Lab111_Dict..executor": "Run",
+    "Python.Lab112_Dict_P2.executor": "Run",
+    "Python.Lab113_Multiple_Dict.executor": "Run",
+    "Python.Lab114_Multiple_Dict_Question.executor": "Run",
+    "Python.Lab115_Dict_Concepts.executor": "Run",
+    "Python.Lab116_Dict_Interview Question.executor": "Run",
+    "Python.Lab117_Dict_Missing_Key.executor": "Run",
+    "Python.Lab118_Dict_Interview Question.executor": "Run",
+    "Python.Lab119_Dict_Interview Question.executor": "Run",
+    "Python.Lab120_Dict_Question.executor": "Run",
+    "Python.Lab121_Dict_Question.executor": "Run",
+    "Python.Lab122_Dict_Interview Question.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Nov/ex_23112024_Lambda_Maps_Filters"
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Nov/ex_26112024_Dict"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Nov\ex_26112024_Dict" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Nov\ex_23112024_Lambda_Maps_Filters" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Nov\ex_19112024_Functions" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Nov\ex_16112024_Loops" />
@@ -250,8 +251,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab111_Dict." type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_26112024_Dict" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab111_Dict..py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab112_Dict_P2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_26112024_Dict" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab112_Dict_P2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab112_Dict_P2" />
+        <item itemvalue="Python.Lab111_Dict." />
         <item itemvalue="Python.Lab058_For_break" />
         <item itemvalue="Python.Lab056_While_Loop" />
         <item itemvalue="Python.Lab052_For Loop" />
@@ -338,7 +385,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732274525298</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="23rd November">
+      <option name="closed" value="true" />
+      <created>1732518617631</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732518617631</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -346,6 +401,7 @@
     <MESSAGE value="7th November" />
     <MESSAGE value="19th November" />
     <MESSAGE value="21st November" />
-    <option name="LAST_COMMIT_MESSAGE" value="21st November" />
+    <MESSAGE value="23rd November" />
+    <option name="LAST_COMMIT_MESSAGE" value="23rd November" />
   </component>
 </project>
