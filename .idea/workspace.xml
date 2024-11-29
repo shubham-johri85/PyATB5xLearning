@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="23rd November">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab111_Dict..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab112_Dict_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab113_Multiple_Dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab114_Multiple_Dict_Question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab115_Dict_Concepts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab116_Dict_Interview Question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab117_Dict_Missing_Key.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab118_Dict_Interview Question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab119_Dict_Interview Question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab120_Dict_Question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab121_Dict_Question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab122_Dict_Interview Question.py" afterDir="false" />
+    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="26th November">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab123_Oops_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab124_Class_Constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab125_Class_Constructor2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab126_Class_Constructor3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab127_Question_Calc with DC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab128_Question_Calc with PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab129_Task 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab130_Task 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,14 +166,22 @@
     "Python.Lab120_Dict_Question.executor": "Run",
     "Python.Lab121_Dict_Question.executor": "Run",
     "Python.Lab122_Dict_Interview Question.executor": "Run",
+    "Python.Lab123_Oops.executor": "Run",
+    "Python.Lab124_Class_Constructor.executor": "Run",
+    "Python.Lab125_Class_Constructor2.executor": "Run",
+    "Python.Lab126_Class_Constructor3.executor": "Run",
+    "Python.Lab127_Question_Calc.executor": "Run",
+    "Python.Lab128_Question_Calc with PC.executor": "Run",
+    "Python.Lab129_Task 1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Nov/ex_26112024_Dict"
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Nov/ex_28112024_Oops Concept"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Nov\ex_28112024_Oops Concept" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Nov\ex_26112024_Dict" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Nov\ex_23112024_Lambda_Maps_Filters" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Nov\ex_19112024_Functions" />
@@ -297,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab052_For Loop" />
         <item itemvalue="Python.Lab112_Dict_P2" />
         <item itemvalue="Python.Lab111_Dict." />
         <item itemvalue="Python.Lab058_For_break" />
         <item itemvalue="Python.Lab056_While_Loop" />
-        <item itemvalue="Python.Lab052_For Loop" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +397,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732518617631</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="26th November">
+      <option name="closed" value="true" />
+      <created>1732707384410</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732707384410</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -402,6 +414,7 @@
     <MESSAGE value="19th November" />
     <MESSAGE value="21st November" />
     <MESSAGE value="23rd November" />
-    <option name="LAST_COMMIT_MESSAGE" value="23rd November" />
+    <MESSAGE value="26th November" />
+    <option name="LAST_COMMIT_MESSAGE" value="26th November" />
   </component>
 </project>
