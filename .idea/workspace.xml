@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="26th November">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab123_Oops_Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab124_Class_Constructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab125_Class_Constructor2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab126_Class_Constructor3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab127_Question_Calc with DC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab128_Question_Calc with PC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab129_Task 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab130_Task 2.py" afterDir="false" />
+    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="28th November">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_Oops Concept 2/Lab131_Oops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_Oops Concept 2/Lab132_Login Page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_Oops Concept 2/Lab133_Oops_Encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_Oops Concept 2/Lab134_Encap_Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_30112024_Oops Concept 2/Lab135_Encap_Example2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,6 +170,11 @@
     "Python.Lab127_Question_Calc.executor": "Run",
     "Python.Lab128_Question_Calc with PC.executor": "Run",
     "Python.Lab129_Task 1.executor": "Run",
+    "Python.Lab131_Oops.executor": "Run",
+    "Python.Lab132_Login Page.executor": "Debug",
+    "Python.Lab133_Oops_Encapsulation.executor": "Run",
+    "Python.Lab134_Encap_Example.executor": "Run",
+    "Python.Lab135_Encap_Example2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -405,7 +407,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732707384410</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="28th November">
+      <option name="closed" value="true" />
+      <created>1732872396159</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732872396159</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -415,6 +425,7 @@
     <MESSAGE value="21st November" />
     <MESSAGE value="23rd November" />
     <MESSAGE value="26th November" />
-    <option name="LAST_COMMIT_MESSAGE" value="26th November" />
+    <MESSAGE value="28th November" />
+    <option name="LAST_COMMIT_MESSAGE" value="28th November" />
   </component>
 </project>
