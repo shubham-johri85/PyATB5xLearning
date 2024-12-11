@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="5th Dec">
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab151_Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab152_Exceptions2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab153_Exceptions_else_finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab154_Modules in Python_OS Module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab155_Exceptions_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab156_Exceptions_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab157_file_io.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab158_Custom_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab159_main_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab160_main_method2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab161.CSV_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab162.CSV_files_using pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/TestData.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/TestData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/BrowserPackage/OpenBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/BrowserPackage/StopBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/BrowserPackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab163_Modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab164_Modules2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab165_Import From.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab166_Import From2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/SQLConnector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -211,19 +206,23 @@
     "Python.Lab160_main_method2.executor": "Run",
     "Python.Lab161.CSV_files.executor": "Run",
     "Python.Lab162.CSV_files_using pandas.executor": "Run",
+    "Python.Lab163_Modules.executor": "Run",
+    "Python.Lab164_Modules2.executor": "Run",
+    "Python.Lab165_Import From.executor": "Run",
+    "Python.Lab166_Import From2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Dec/ex_07122024_Exceptions"
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Dec/ex_10122024_Modules"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_10122024_Modules" />
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_10122024_Modules\browserpackage" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_07122024_Exceptions" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_03122024_Oops_Inheritance and Polymorphism" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_03122024_Oops_Inheritance" />
-      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Nov\ex_28112024_Oops Concept" />
-      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Nov\ex_26112024_Dict" />
     </key>
   </component>
   <component name="RunManager">
