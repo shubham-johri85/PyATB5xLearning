@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="5th Dec">
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/BrowserPackage/OpenBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/BrowserPackage/StopBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/BrowserPackage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab163_Modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab164_Modules2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab165_Import From.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab166_Import From2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/SQLConnector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_10122024_Modules/__init__.py" afterDir="false" />
+    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="10th Dec">
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab167_PyTest_Learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab168_PyTest_Learning02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab169_PyTest_Learning_Allure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab170_pytest_learning_allure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab171_pytest_GET.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +58,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_Lab167_PyTest_Learning.test_main_method2.executor": "Run",
+    "Python tests.Python tests for test_Lab167_PyTest_Learning.test_method2.executor": "Run",
+    "Python tests.pytest for test_Lab169_PyTest_Learning_Allure Report.test_createbooking_positive.executor": "Run",
+    "Python tests.pytest for test_Lab171_pytest_GET.test_get_request_positive.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
     "Python.Lab003_Python_Basics.executor": "Run",
@@ -213,19 +214,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Dec/ex_10122024_Modules"
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Dec/ex_28122024_PyTest",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_28122024_PyTest" />
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_10122024_Modules" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_10122024_Modules\browserpackage" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_07122024_Exceptions" />
-      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_03122024_Oops_Inheritance and Polymorphism" />
-      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_03122024_Oops_Inheritance" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.pytest for test_Lab171_pytest_GET.test_get_request_positive">
     <configuration name="Lab052_For Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -240,72 +242,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab052_For Loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab058_For_break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_16112024_Loops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab058_For_break.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab111_Dict." type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_26112024_Dict" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab111_Dict..py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab112_Dict_P2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_26112024_Dict" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab112_Dict_P2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,20 +272,84 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab167_PyTest_Learning.test_main_method2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_28122024_PyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab167_PyTest_Learning.test_main_method2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab167_PyTest_Learning.test_method2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_28122024_PyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab167_PyTest_Learning.test_method2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_28122024_PyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_Lab171_pytest_GET.test_get_request_positive" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_28122024_PyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab171_pytest_GET.test_get_request_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_Lab171_pytest_GET.test_get_request_positive" />
+        <item itemvalue="Python tests.pytest for Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive" />
+        <item itemvalue="Python tests.Python tests for test_Lab167_PyTest_Learning.test_method2" />
+        <item itemvalue="Python tests.Python tests for test_Lab167_PyTest_Learning.test_main_method2" />
         <item itemvalue="Python.Lab159_main_method" />
-        <item itemvalue="Python.Lab052_For Loop" />
-        <item itemvalue="Python.Lab112_Dict_P2" />
-        <item itemvalue="Python.Lab111_Dict." />
-        <item itemvalue="Python.Lab058_For_break" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
       </set>
     </attachedChunks>
   </component>
@@ -466,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733480173686</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="10th Dec">
+      <option name="closed" value="true" />
+      <created>1733900070425</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1733900070425</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -479,6 +487,7 @@
     <MESSAGE value="28th November" />
     <MESSAGE value="30th November" />
     <MESSAGE value="5th Dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th Dec" />
+    <MESSAGE value="10th Dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="10th Dec" />
   </component>
 </project>
