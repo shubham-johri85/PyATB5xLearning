@@ -4,16 +4,205 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="28th Dec">
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab172_Pytest_Learn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab173_Pytest_Learn2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab174_Pytest_POST_Create Booking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab175_Pytest_POST_Create Token.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab176_Pytest_PUT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab177_Pytest_Task#1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab178_Pytest_Task#2.py" afterDir="false" />
+    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="31st Dec">
+      <change afterPath="$PROJECT_DIR$/Jan 2025/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan 2025/ex_02012025_Fixtures_Python/Update_Request_Using_Fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan 2025/ex_02012025_Fixtures_Python/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan 2025/ex_02012025_Fixtures_Python/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan 2025/ex_02012025_Fixtures_Python/test_Lab179_Fixture_Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov 2024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_03122024_Oops_Inheritance and Polymorphism/Lab136_Inheritance_Single.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_03122024_Oops_Inheritance and Polymorphism/Lab136_Inheritance_Single.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_03122024_Oops_Inheritance and Polymorphism/Lab137_Inheritance_Multilevel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_03122024_Oops_Inheritance and Polymorphism/Lab137_Inheritance_Multilevel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_03122024_Oops_Inheritance and Polymorphism/Lab138_Inheritance_Multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_03122024_Oops_Inheritance and Polymorphism/Lab138_Inheritance_Multiple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_03122024_Oops_Inheritance and Polymorphism/Lab139_Inheritance_hierarchical.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_03122024_Oops_Inheritance and Polymorphism/Lab139_Inheritance_hierarchical.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_03122024_Oops_Inheritance and Polymorphism/Lab140_Inheritance_Real_Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_03122024_Oops_Inheritance and Polymorphism/Lab140_Inheritance_Real_Example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_03122024_Oops_Inheritance and Polymorphism/Lab141_Polymorphism_Method Overloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_03122024_Oops_Inheritance and Polymorphism/Lab141_Polymorphism_Method Overloading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_03122024_Oops_Inheritance and Polymorphism/Lab142_Polymorphism_Method Overriding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_03122024_Oops_Inheritance and Polymorphism/Lab142_Polymorphism_Method Overriding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_03122024_Oops_Inheritance and Polymorphism/Lab143_Polymorphism_Method Overriding_Real Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_03122024_Oops_Inheritance and Polymorphism/Lab143_Polymorphism_Method Overriding_Real Example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_05122024_Oops_Abstraction/Lab144_Abstraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_05122024_Oops_Abstraction/Lab144_Abstraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_05122024_Oops_Abstraction/Lab145_Oops_Abstraction2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_05122024_Oops_Abstraction/Lab145_Oops_Abstraction2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_05122024_Oops_Abstraction/Lab146_Oops_Abstraction3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_05122024_Oops_Abstraction/Lab146_Oops_Abstraction3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_05122024_Oops_Abstraction/Lab147_Oops_Abstraction4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_05122024_Oops_Abstraction/Lab147_Oops_Abstraction4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_05122024_Oops_Abstraction/Lab148_Oops_Static Method.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_05122024_Oops_Abstraction/Lab148_Oops_Static Method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_05122024_Oops_Abstraction/Lab149_Oops_Static Method2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_05122024_Oops_Abstraction/Lab149_Oops_Static Method2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_05122024_Oops_Abstraction/Lab150_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_05122024_Oops_Abstraction/Lab150_Task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab151_Exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/Lab151_Exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab152_Exceptions2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/Lab152_Exceptions2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab153_Exceptions_else_finally.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/Lab153_Exceptions_else_finally.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab154_Modules in Python_OS Module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/Lab154_Modules in Python_OS Module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab155_Exceptions_Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/Lab155_Exceptions_Example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab156_Exceptions_Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/Lab156_Exceptions_Example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab157_file_io.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/Lab157_file_io.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab158_Custom_Exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/Lab158_Custom_Exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab159_main_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/Lab159_main_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab160_main_method2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/Lab160_main_method2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab161.CSV_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/Lab161.CSV_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab162.CSV_files_using pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/Lab162.CSV_files_using pandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/TestData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/TestData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/TestData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/TestData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/sdet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/sdet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/shubham.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_07122024_Exceptions/shubham.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_10122024_Modules/BrowserPackage/OpenBrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_10122024_Modules/BrowserPackage/OpenBrowser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_10122024_Modules/BrowserPackage/StopBrowser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_10122024_Modules/BrowserPackage/StopBrowser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_10122024_Modules/BrowserPackage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab163_Modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_10122024_Modules/Lab163_Modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab164_Modules2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_10122024_Modules/Lab164_Modules2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab165_Import From.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_10122024_Modules/Lab165_Import From.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_10122024_Modules/Lab166_Import From2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_10122024_Modules/Lab166_Import From2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_10122024_Modules/SQLConnector.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_10122024_Modules/SQLConnector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_10122024_Modules/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_10122024_Modules/BrowserPackage/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_10122024_Modules/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab167_PyTest_Learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_28122024_PyTest/test_Lab167_PyTest_Learning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab168_PyTest_Learning02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_28122024_PyTest/test_Lab168_PyTest_Learning02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab169_PyTest_Learning_Allure.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_28122024_PyTest/test_Lab169_PyTest_Learning_Allure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab170_pytest_learning_allure.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_28122024_PyTest/test_Lab170_pytest_learning_allure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab171_pytest_GET.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_28122024_PyTest/test_Lab171_pytest_GET.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_28122024_PyTest/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab172_Pytest_Learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_31122024_PyTest_Requests_Module/test_Lab172_Pytest_Learn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab173_Pytest_Learn2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_31122024_PyTest_Requests_Module/test_Lab173_Pytest_Learn2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab174_Pytest_POST_Create Booking.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_31122024_PyTest_Requests_Module/test_Lab174_Pytest_POST_Create Booking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab175_Pytest_POST_Create Token.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_31122024_PyTest_Requests_Module/test_Lab175_Pytest_POST_Create Token.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab176_Pytest_PUT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_31122024_PyTest_Requests_Module/test_Lab176_Pytest_PUT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab177_Pytest_Task#1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_31122024_PyTest_Requests_Module/test_Lab177_Pytest_Task#1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab178_Pytest_Task#2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_31122024_PyTest_Requests_Module/test_Lab178_Pytest_Task#2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec 2024/ex_31122024_PyTest_Requests_Module/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_05112024_Python_Basics/Lab002_Python_Basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_05112024_Python_Basics/Lab003_Python_Basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_07112024_Keywords_Identifiers_Variables/Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_07112024_Keywords_Identifiers_Variables/Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab006_Variables_Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_07112024_Keywords_Identifiers_Variables/Lab006_Variables_Types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab007_Variables_Identifiers_Rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_07112024_Keywords_Identifiers_Variables/Lab007_Variables_Identifiers_Rules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab008_Dynamically_Typed.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_07112024_Keywords_Identifiers_Variables/Lab008_Dynamically_Typed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_07112024_Keywords_Identifiers_Variables/Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_07112024_Keywords_Identifiers_Variables/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_07112024_Keywords_Identifiers_Variables/Lab011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_07112024_Keywords_Identifiers_Variables/Lab012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_07112024_Keywords_Identifiers_Variables/Lab013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab014_Maths_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_07112024_Keywords_Identifiers_Variables/Lab014_Maths_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifiers_Variables/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_07112024_Keywords_Identifiers_Variables/Lab015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab020_Built-in_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab020_Built-in_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab021_UserInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab021_UserInput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab022_User_Input_Sum_Of_Two_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab022_User_Input_Sum_Of_Two_Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab023_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab023_Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab024_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab024_Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab025_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab025_Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab026_Literals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab026_Literals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab027_Escape_Char.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab027_Escape_Char.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab028_Escape_Char.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab028_Escape_Char.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab029_Task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab029_Task 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab030_Task 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_09112024_Literals_Variables/Lab030_Task 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab031_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab031_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab032_Operators_Arithematic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab032_Operators_Arithematic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab033_Operators_P1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab033_Operators_P1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab034_Operators_P2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab034_Operators_P2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab035_Operators_P3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab035_Operators_P3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab036_Operators_P4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab036_Operators_P4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab037_Operators_P5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab037_Operators_P5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab038_Operators_P6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab038_Operators_P6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab039_Operators_P7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab039_Operators_P7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab040_Operators_P8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab040_Operators_P8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab041_Ternary Operators_P9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab041_Ternary Operators_P9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab042_Input_Ternary Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab042_Input_Ternary Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab043_Coding_Question.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab043_Coding_Question.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab044_Task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab044_Task 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab045_Task 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab045_Task 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_12112024_Operators/Lab046_Task 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_12112024_Operators/Lab046_Task 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab047_if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_14112024_Condition_Loops/Lab047_if_else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab048_Grade_Calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_14112024_Condition_Loops/Lab048_Grade_Calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab049_Task 1_Triangle Classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_14112024_Condition_Loops/Lab049_Task 1_Triangle Classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_14112024_Condition_Loops/Lab050_Task 2_Leap Year Checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_14112024_Condition_Loops/Lab050_Task 2_Leap Year Checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab051.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_16112024_Loops/Lab051.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab052_For Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_16112024_Loops/Lab052_For Loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab053_For Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_16112024_Loops/Lab053_For Loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab054.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_16112024_Loops/Lab054.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab055.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_16112024_Loops/Lab055.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab056_While_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_16112024_Loops/Lab056_While_Loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab057_For_Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_16112024_Loops/Lab057_For_Example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab058_For_break.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_16112024_Loops/Lab058_For_break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab059_Question.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_16112024_Loops/Lab059_Question.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab060_Pass_Break.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_16112024_Loops/Lab060_Pass_Break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab061_Question.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_16112024_Loops/Lab061_Question.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab062_continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_16112024_Loops/Lab062_continue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab063_Match_Statement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_16112024_Loops/Lab063_Match_Statement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab064_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_16112024_Loops/Lab064_Task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab065_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_19112024_Functions/Lab065_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab066_Functions_Part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_19112024_Functions/Lab066_Functions_Part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab067_Functions_Part3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_19112024_Functions/Lab067_Functions_Part3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab068_Functions_Pass.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_19112024_Functions/Lab068_Functions_Pass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab069_Functions_Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_19112024_Functions/Lab069_Functions_Types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab070_Functions_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_19112024_Functions/Lab070_Functions_input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab071_Functions_Types 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_19112024_Functions/Lab071_Functions_Types 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab072_Functions_Interview_Questions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_19112024_Functions/Lab072_Functions_Interview_Questions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab073_IQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_19112024_Functions/Lab073_IQ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab074_Args.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_19112024_Functions/Lab074_Args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_19112024_Functions/Lab075_Real_exmpl.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_19112024_Functions/Lab075_Real_exmpl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab076.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_21112024_Functions_Scopes/Lab076.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab077.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_21112024_Functions_Scopes/Lab077.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab078_Local_Variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_21112024_Functions_Scopes/Lab078_Local_Variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab079_Inner_Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_21112024_Functions_Scopes/Lab079_Inner_Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab080_Decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_21112024_Functions_Scopes/Lab080_Decorators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab081_Decorators_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_21112024_Functions_Scopes/Lab081_Decorators_part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab082_without_Decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_21112024_Functions_Scopes/Lab082_without_Decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab083_Real_example_Decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_21112024_Functions_Scopes/Lab083_Real_example_Decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab084_Multiple_Decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_21112024_Functions_Scopes/Lab084_Multiple_Decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab085_Type_Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_21112024_Functions_Scopes/Lab085_Type_Conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_21112024_Functions_Scopes/Lab086_Task_For_Double loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_21112024_Functions_Scopes/Lab086_Task_For_Double loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab087_Lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab087_Lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab088_Lambda 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab088_Lambda 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab089_Lambda 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab089_Lambda 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab090_Lambda4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab090_Lambda4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab091_Lambda_Multiple_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab091_Lambda_Multiple_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab092_Lambda_Multiple_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab092_Lambda_Multiple_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab093_Lambda_real_use.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab093_Lambda_real_use.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab094_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab094_List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab095_List_Reassigning_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab095_List_Reassigning_values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab096_List_for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab096_List_for_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab097_List_Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab097_List_Index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab098_List_append().py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab098_List_append().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab099_List_extend().py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab099_List_extend().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab100_List_insert().py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab100_List_insert().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab101_List_remove().py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab101_List_remove().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab102_List_Sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab102_List_Sorting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab103_List_pop().py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab103_List_pop().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab104_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab104_Tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab105_Tuple 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab105_Tuple 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab106_Tuple3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab106_Tuple3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab107_SET.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab107_SET.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab108_SET 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab108_SET 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab109_SET 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab109_SET 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_23112024_Lambda_List_Tuple_SET/Lab110_SET_IQ.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_23112024_Lambda_List_Tuple_SET/Lab110_SET_IQ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab111_Dict..py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_26112024_Dict/Lab111_Dict..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab112_Dict_P2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_26112024_Dict/Lab112_Dict_P2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab113_Multiple_Dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_26112024_Dict/Lab113_Multiple_Dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab114_Multiple_Dict_Question.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_26112024_Dict/Lab114_Multiple_Dict_Question.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab115_Dict_Concepts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_26112024_Dict/Lab115_Dict_Concepts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab116_Dict_Interview Question.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_26112024_Dict/Lab116_Dict_Interview Question.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab117_Dict_Missing_Key.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_26112024_Dict/Lab117_Dict_Missing_Key.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab118_Dict_Interview Question.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_26112024_Dict/Lab118_Dict_Interview Question.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab119_Dict_Interview Question.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_26112024_Dict/Lab119_Dict_Interview Question.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab120_Dict_Question.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_26112024_Dict/Lab120_Dict_Question.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab121_Dict_Question.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_26112024_Dict/Lab121_Dict_Question.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_26112024_Dict/Lab122_Dict_Interview Question.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_26112024_Dict/Lab122_Dict_Interview Question.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab123_Oops_Class.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_28112024_Oops Concept/Lab123_Oops_Class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab124_Class_Constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_28112024_Oops Concept/Lab124_Class_Constructor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab125_Class_Constructor2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_28112024_Oops Concept/Lab125_Class_Constructor2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab126_Class_Constructor3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_28112024_Oops Concept/Lab126_Class_Constructor3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab127_Question_Calc with DC.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_28112024_Oops Concept/Lab127_Question_Calc with DC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab128_Question_Calc with PC.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_28112024_Oops Concept/Lab128_Question_Calc with PC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab129_Task 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_28112024_Oops Concept/Lab129_Task 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_28112024_Oops Concept/Lab130_Task 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_28112024_Oops Concept/Lab130_Task 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_30112024_Oops Concept 2/Lab131_Oops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_30112024_Oops Concept 2/Lab131_Oops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_30112024_Oops Concept 2/Lab132_Login Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_30112024_Oops Concept 2/Lab132_Login Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_30112024_Oops Concept 2/Lab133_Oops_Encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_30112024_Oops Concept 2/Lab133_Oops_Encapsulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_30112024_Oops Concept 2/Lab134_Encap_Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_30112024_Oops Concept 2/Lab134_Encap_Example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_30112024_Oops Concept 2/Lab135_Encap_Example2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov 2024/ex_30112024_Oops Concept 2/Lab135_Encap_Example2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +251,7 @@
   "keyToString": {
     "Python tests.Python tests for test_Lab167_PyTest_Learning.test_main_method2.executor": "Run",
     "Python tests.Python tests for test_Lab167_PyTest_Learning.test_method2.executor": "Run",
+    "Python tests.pytest for Update_Request_Using_Fixture.test_update1.executor": "Run",
     "Python tests.pytest for test_Lab169_PyTest_Learning_Allure Report.test_createbooking_positive.executor": "Run",
     "Python tests.pytest for test_Lab171_pytest_GET.test_get_request_positive.executor": "Run",
     "Python tests.pytest for test_Lab174_Pytest_POST.test_create_booking_negative_tc02.executor": "Run",
@@ -73,6 +263,7 @@
     "Python tests.pytest for test_Lab177_Pytest_Task#1.test_deleted_bookingid.executor": "Run",
     "Python tests.pytest for test_Lab178_Pytest_Task#2.test_Update_Patch_request.executor": "Run",
     "Python tests.pytest for test_Lab178_Pytest_Task#2.test_get_booking_all.executor": "Run",
+    "Python tests.pytest for test_Lab179_Fixture_Demo.test_Update.executor": "Run",
     "Python tests.pytest in test_Lab178_Pytest_Task#2.py.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
@@ -223,11 +414,12 @@
     "Python.Lab164_Modules2.executor": "Run",
     "Python.Lab165_Import From.executor": "Run",
     "Python.Lab166_Import From2.executor": "Run",
+    "Python.conftest.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Dec/ex_31122024_PyTest_Requests_Module",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -239,14 +431,14 @@
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_10122024_Modules\browserpackage" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_Lab178_Pytest_Task#2.test_Update_Patch_request">
+  <component name="RunManager" selected="Python tests.pytest for Update_Request_Using_Fixture.test_update1">
     <configuration name="pytest for Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_28122024_PyTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec 2024/ex_28122024_PyTest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -257,37 +449,30 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_Lab176_Pytest_PUT.test_delete_booking" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for Update_Request_Using_Fixture.test_update1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
+      <option name="ENV_FILES" value="$PROJECT_DIR$/.env" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan 2025/ex_02012025_Fixtures_Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </EXTENSION>
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab176_Pytest_PUT.test_delete_booking&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_Lab177_Pytest_Task#1.test_delete_booking" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab177_Pytest_Task#1.test_delete_booking&quot;" />
+      <option name="_new_target" value="&quot;Update_Request_Using_Fixture.test_update1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -297,7 +482,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec 2024/ex_31122024_PyTest_Requests_Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -314,10 +499,20 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec 2024/ex_31122024_PyTest_Requests_Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </EXTENSION>
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
@@ -331,7 +526,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec 2024/ex_31122024_PyTest_Requests_Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -342,13 +537,48 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_Lab179_Fixture_Demo.test_Update" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan 2025/ex_02012025_Fixtures_Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab179_Fixture_Demo.test_Update&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive" />
+      <item itemvalue="Python tests.pytest for test_Lab177_Pytest_Task#1.test_deleted_bookingid" />
+      <item itemvalue="Python tests.pytest for test_Lab178_Pytest_Task#2.test_get_booking_all" />
+      <item itemvalue="Python tests.pytest for test_Lab178_Pytest_Task#2.test_Update_Patch_request" />
+      <item itemvalue="Python tests.pytest for test_Lab179_Fixture_Demo.test_Update" />
+      <item itemvalue="Python tests.pytest for Update_Request_Using_Fixture.test_update1" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for Update_Request_Using_Fixture.test_update1" />
+        <item itemvalue="Python tests.pytest for test_Lab179_Fixture_Demo.test_Update" />
         <item itemvalue="Python tests.pytest for test_Lab178_Pytest_Task#2.test_Update_Patch_request" />
         <item itemvalue="Python tests.pytest for test_Lab178_Pytest_Task#2.test_get_booking_all" />
         <item itemvalue="Python tests.pytest for test_Lab177_Pytest_Task#1.test_deleted_bookingid" />
-        <item itemvalue="Python tests.pytest for test_Lab177_Pytest_Task#1.test_delete_booking" />
-        <item itemvalue="Python tests.pytest for test_Lab176_Pytest_PUT.test_delete_booking" />
       </list>
     </recent_temporary>
   </component>
@@ -488,7 +718,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735663184450</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="31st Dec">
+      <option name="closed" value="true" />
+      <created>1736080154000</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1736080154000</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -503,6 +741,7 @@
     <MESSAGE value="5th Dec" />
     <MESSAGE value="10th Dec" />
     <MESSAGE value="28th Dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="28th Dec" />
+    <MESSAGE value="31st Dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="31st Dec" />
   </component>
 </project>
