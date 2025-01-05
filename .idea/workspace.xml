@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="10th Dec">
-      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab167_PyTest_Learning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab168_PyTest_Learning02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab169_PyTest_Learning_Allure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab170_pytest_learning_allure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/ex_28122024_PyTest/test_Lab171_pytest_GET.py" afterDir="false" />
+    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="28th Dec">
+      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab172_Pytest_Learn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab173_Pytest_Learn2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab174_Pytest_POST_Create Booking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab175_Pytest_POST_Create Token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab176_Pytest_PUT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab177_Pytest_Task#1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module/test_Lab178_Pytest_Task#2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +64,16 @@
     "Python tests.Python tests for test_Lab167_PyTest_Learning.test_method2.executor": "Run",
     "Python tests.pytest for test_Lab169_PyTest_Learning_Allure Report.test_createbooking_positive.executor": "Run",
     "Python tests.pytest for test_Lab171_pytest_GET.test_get_request_positive.executor": "Run",
+    "Python tests.pytest for test_Lab174_Pytest_POST.test_create_booking_negative_tc02.executor": "Run",
+    "Python tests.pytest for test_Lab174_Pytest_POST.test_create_booking_positive_tc01.executor": "Run",
+    "Python tests.pytest for test_Lab175_Pytest_POST_Create Token.test_create_token_positive_tc01.executor": "Run",
+    "Python tests.pytest for test_Lab176_Pytest_PUT.test_delete_booking.executor": "Run",
+    "Python tests.pytest for test_Lab176_Pytest_PUT.test_put_request.executor": "Run",
+    "Python tests.pytest for test_Lab177_Pytest_Task#1.test_delete_booking.executor": "Run",
+    "Python tests.pytest for test_Lab177_Pytest_Task#1.test_deleted_bookingid.executor": "Run",
+    "Python tests.pytest for test_Lab178_Pytest_Task#2.test_Update_Patch_request.executor": "Run",
+    "Python tests.pytest for test_Lab178_Pytest_Task#2.test_get_booking_all.executor": "Run",
+    "Python tests.pytest in test_Lab178_Pytest_Task#2.py.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
     "Python.Lab003_Python_Basics.executor": "Run",
@@ -214,94 +226,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Dec/ex_28122024_PyTest",
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Dec/ex_31122024_PyTest_Requests_Module",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_31122024_PyTest_Requests_Module" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_28122024_PyTest" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_10122024_Modules" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_10122024_Modules\browserpackage" />
-      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_07122024_Exceptions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_Lab171_pytest_GET.test_get_request_positive">
-    <configuration name="Lab052_For Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_16112024_Loops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_16112024_Loops/Lab052_For Loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab159_main_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_07122024_Exceptions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dec/ex_07122024_Exceptions/Lab159_main_method.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab167_PyTest_Learning.test_main_method2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_28122024_PyTest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab167_PyTest_Learning.test_main_method2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab167_PyTest_Learning.test_method2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_28122024_PyTest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab167_PyTest_Learning.test_method2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.pytest for test_Lab178_Pytest_Task#2.test_Update_Patch_request">
     <configuration name="pytest for Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -319,30 +257,98 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_Lab171_pytest_GET.test_get_request_positive" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_Lab176_Pytest_PUT.test_delete_booking" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_28122024_PyTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab171_pytest_GET.test_get_request_positive&quot;" />
+      <option name="_new_target" value="&quot;test_Lab176_Pytest_PUT.test_delete_booking&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_Lab177_Pytest_Task#1.test_delete_booking" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab177_Pytest_Task#1.test_delete_booking&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_Lab177_Pytest_Task#1.test_deleted_bookingid" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab177_Pytest_Task#1.test_deleted_bookingid&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_Lab178_Pytest_Task#2.test_Update_Patch_request" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab178_Pytest_Task#2.test_Update_Patch_request&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_Lab178_Pytest_Task#2.test_get_booking_all" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dec/ex_31122024_PyTest_Requests_Module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab178_Pytest_Task#2.test_get_booking_all&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_Lab171_pytest_GET.test_get_request_positive" />
-        <item itemvalue="Python tests.pytest for Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive" />
-        <item itemvalue="Python tests.Python tests for test_Lab167_PyTest_Learning.test_method2" />
-        <item itemvalue="Python tests.Python tests for test_Lab167_PyTest_Learning.test_main_method2" />
-        <item itemvalue="Python.Lab159_main_method" />
+        <item itemvalue="Python tests.pytest for test_Lab178_Pytest_Task#2.test_Update_Patch_request" />
+        <item itemvalue="Python tests.pytest for test_Lab178_Pytest_Task#2.test_get_booking_all" />
+        <item itemvalue="Python tests.pytest for test_Lab177_Pytest_Task#1.test_deleted_bookingid" />
+        <item itemvalue="Python tests.pytest for test_Lab177_Pytest_Task#1.test_delete_booking" />
+        <item itemvalue="Python tests.pytest for test_Lab176_Pytest_PUT.test_delete_booking" />
       </list>
     </recent_temporary>
   </component>
@@ -474,7 +480,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733900070425</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="28th Dec">
+      <option name="closed" value="true" />
+      <created>1735663184450</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735663184450</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -488,6 +502,7 @@
     <MESSAGE value="30th November" />
     <MESSAGE value="5th Dec" />
     <MESSAGE value="10th Dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="10th Dec" />
+    <MESSAGE value="28th Dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="28th Dec" />
   </component>
 </project>
