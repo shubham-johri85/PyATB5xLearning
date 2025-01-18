@@ -10,10 +10,11 @@ import os
 
 
 def test_app_vwo_login_chrome():
+    load_dotenv()
     chrome_options = Options()
     chrome_options.add_argument("--incognito")
     driver = webdriver.Chrome(chrome_options)
-    driver.get("https://app.vwo.com/#/login")
+    driver.get(os.getenv("URL"))
     """<a 
     href="https://vwo.com/free-trial/?utm_medium=website&amp;
     utm_source=login-page&amp;
@@ -31,7 +32,7 @@ def test_app_vwo_login_chrome():
     anchar_tag_element = driver.find_element(By.PARTIAL_LINK_TEXT, "free trial")
     anchar_tag_element.click()
 
-    assert driver.current_url == "https://vwo.com/free-trial/?utm_medium=website&utm_source=login-page&utm_campaign=mof_eg_loginpage"
+    assert driver.current_url == os.getenv("URLSTARTFREETRIAL")
 
     time.sleep(5)
     driver.quit()

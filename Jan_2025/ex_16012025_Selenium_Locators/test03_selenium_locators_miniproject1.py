@@ -10,10 +10,11 @@ import os
 
 
 def test_app_vwo_login_chrome():
+    load_dotenv()
     chrome_options = Options()
     chrome_options.add_argument("--incognito")
     driver = webdriver.Chrome(chrome_options)
-    driver.get("https://app.vwo.com/#/login")
+    driver.get(os.getenv("URL"))
     """
     <
     input type="email" 
@@ -23,7 +24,7 @@ def test_app_vwo_login_chrome():
     data-qa="hocewoqisi">
     """
     email_web_element = driver.find_element(By.ID, "login-username")
-    email_web_element.send_keys("abc@abc.com")
+    email_web_element.send_keys(os.getenv("INVALID_USERNAME"))
     """
     <input type="password" 
     class="text-input W(100%)" 
@@ -32,7 +33,7 @@ def test_app_vwo_login_chrome():
     data-qa="jobodapuxe">
     """
     password_element = driver.find_element(By.NAME, "password" )
-    password_element.send_keys("test")
+    password_element.send_keys(os.getenv("INVALID_PASSWORD"))
     button_element = driver.find_element(By.ID, "js-login-btn")
     """<button type="submit" 
        id="js-login-btn" 
@@ -49,7 +50,7 @@ def test_app_vwo_login_chrome():
     """
     error_web_element = driver.find_element(By.CLASS_NAME, "notification-box-description" )
     print(error_web_element)
-    assert error_web_element.text == "Your email, password, IP address or location did not match"
+    assert error_web_element.text == os.getenv("ERROR_MESSAGE_EXPECTED")
 
     time.sleep(5)
     driver.quit()

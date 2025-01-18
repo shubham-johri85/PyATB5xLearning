@@ -11,10 +11,11 @@ import os
 @allure.description("Verify clicking start free trial link and new page url")
 @pytest.mark.VWO
 def test_app_vwo_free_trial_chrome():
+    load_dotenv()
     chrome_options = Options()
     chrome_options.add_argument("--incognito")
     driver = webdriver.Chrome(chrome_options)
-    driver.get("https://app.vwo.com/#/login")
+    driver.get(os.getenv("URL"))
     """<a 
     href="https://vwo.com/free-trial/?utm_medium=website&amp;
     utm_source=login-page&amp;

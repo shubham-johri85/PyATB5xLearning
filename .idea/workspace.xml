@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="11th Jan">
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test01_selenium_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test02_selenium_locators_options.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test03_selenium_locators_miniproject1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test04_selenium_locators_miniproject2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test05_selenium_locators_miniproject2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test06_selenium_locators_miniproject2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test07_selenium_locators_Task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test03_selenium_locators_miniproject1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test03_selenium_locators_miniproject1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test04_selenium_locators_miniproject2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test04_selenium_locators_miniproject2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test05_selenium_locators_miniproject2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test05_selenium_locators_miniproject2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test07_selenium_locators_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test07_selenium_locators_Task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +44,9 @@
     &quot;accountId&quot;: &quot;8a3a4664-0b3a-4f72-89be-1e6df94313d3&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -65,6 +64,8 @@
     "Python tests.Python tests for test_Lab167_PyTest_Learning.test_method2.executor": "Run",
     "Python tests.pytest for Lab081_Decorators_part2.test_ui.executor": "Run",
     "Python tests.pytest for Update_Request_Using_Fixture.test_update1.executor": "Run",
+    "Python tests.pytest for test03_selenium_locators_miniproject1.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.pytest for test04_selenium_locators_miniproject2.test_app_vwo_free_trial_chrome.executor": "Run",
     "Python tests.pytest for test04_selenium_locators_miniproject2.test_app_vwo_login_chrome.executor": "Run",
     "Python tests.pytest for test05_selenium_locators_miniproject2.test_app_vwo_login_chrome.executor": "Run",
     "Python tests.pytest for test06_selenium_locators_miniproject2.test_app_vwo_login_chrome.executor": "Run",
@@ -72,6 +73,8 @@
     "Python tests.pytest for test07_selenium_locators_Task.test_espocrm_ProjectManagement_click_TC04.executor": "Run",
     "Python tests.pytest for test07_selenium_locators_Task.test_espocrm_SalesPack_click_TC03.executor": "Run",
     "Python tests.pytest for test07_selenium_locators_Task.test_espocrm_login_click_TC01.executor": "Run",
+    "Python tests.pytest for test07_selenium_locators_Task.test_espocrm_login_click_tc01.executor": "Run",
+    "Python tests.pytest for test08_Doubt.test_app_vwo_login_chrome.executor": "Run",
     "Python tests.pytest for test_Lab169_PyTest_Learning_Allure Report.test_createbooking_positive.executor": "Run",
     "Python tests.pytest for test_Lab171_pytest_GET.test_get_request_positive.executor": "Run",
     "Python tests.pytest for test_Lab174_Pytest_POST.test_create_booking_negative_tc02.executor": "Run",
@@ -263,7 +266,7 @@
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Dec\ex_31122024_PyTest_Requests_Module" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test07_selenium_locators_Task.test_espocrm_login_click_TC01">
+  <component name="RunManager" selected="Python tests.pytest for test07_selenium_locators_Task.test_espocrm_login_click_tc01">
     <configuration name="pytest for Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -281,7 +284,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test06_selenium_locators_miniproject2.test_app_vwo_login_chrome" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test03_selenium_locators_miniproject1.test_app_vwo_login_chrome" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,11 +297,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test06_selenium_locators_miniproject2.test_app_vwo_login_chrome&quot;" />
+      <option name="_new_target" value="&quot;test03_selenium_locators_miniproject1.test_app_vwo_login_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test07_selenium_locators_Task.test_espocrm_AdvancedPack_click_TC02" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test04_selenium_locators_miniproject2.test_app_vwo_free_trial_chrome" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -311,11 +314,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test07_selenium_locators_Task.test_espocrm_AdvancedPack_click_TC02&quot;" />
+      <option name="_new_target" value="&quot;test04_selenium_locators_miniproject2.test_app_vwo_free_trial_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test07_selenium_locators_Task.test_espocrm_ProjectManagement_click_TC04" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test05_selenium_locators_miniproject2.test_app_vwo_login_chrome" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -328,11 +331,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test07_selenium_locators_Task.test_espocrm_ProjectManagement_click_TC04&quot;" />
+      <option name="_new_target" value="&quot;test05_selenium_locators_miniproject2.test_app_vwo_login_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test07_selenium_locators_Task.test_espocrm_SalesPack_click_TC03" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test07_selenium_locators_Task.test_espocrm_login_click_tc01" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -345,11 +348,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test07_selenium_locators_Task.test_espocrm_SalesPack_click_TC03&quot;" />
+      <option name="_new_target" value="&quot;test07_selenium_locators_Task.test_espocrm_login_click_tc01&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test07_selenium_locators_Task.test_espocrm_login_click_TC01" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test08_Doubt.test_app_vwo_login_chrome" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -362,25 +365,25 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test07_selenium_locators_Task.test_espocrm_login_click_TC01&quot;" />
+      <option name="_new_target" value="&quot;test08_Doubt.test_app_vwo_login_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python tests.pytest for Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive" />
-      <item itemvalue="Python tests.pytest for test06_selenium_locators_miniproject2.test_app_vwo_login_chrome" />
-      <item itemvalue="Python tests.pytest for test07_selenium_locators_Task.test_espocrm_AdvancedPack_click_TC02" />
-      <item itemvalue="Python tests.pytest for test07_selenium_locators_Task.test_espocrm_ProjectManagement_click_TC04" />
-      <item itemvalue="Python tests.pytest for test07_selenium_locators_Task.test_espocrm_SalesPack_click_TC03" />
-      <item itemvalue="Python tests.pytest for test07_selenium_locators_Task.test_espocrm_login_click_TC01" />
+      <item itemvalue="Python tests.pytest for test03_selenium_locators_miniproject1.test_app_vwo_login_chrome" />
+      <item itemvalue="Python tests.pytest for test04_selenium_locators_miniproject2.test_app_vwo_free_trial_chrome" />
+      <item itemvalue="Python tests.pytest for test05_selenium_locators_miniproject2.test_app_vwo_login_chrome" />
+      <item itemvalue="Python tests.pytest for test07_selenium_locators_Task.test_espocrm_login_click_tc01" />
+      <item itemvalue="Python tests.pytest for test08_Doubt.test_app_vwo_login_chrome" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test07_selenium_locators_Task.test_espocrm_login_click_TC01" />
-        <item itemvalue="Python tests.pytest for test07_selenium_locators_Task.test_espocrm_ProjectManagement_click_TC04" />
-        <item itemvalue="Python tests.pytest for test07_selenium_locators_Task.test_espocrm_SalesPack_click_TC03" />
-        <item itemvalue="Python tests.pytest for test07_selenium_locators_Task.test_espocrm_AdvancedPack_click_TC02" />
-        <item itemvalue="Python tests.pytest for test06_selenium_locators_miniproject2.test_app_vwo_login_chrome" />
+        <item itemvalue="Python tests.pytest for test07_selenium_locators_Task.test_espocrm_login_click_tc01" />
+        <item itemvalue="Python tests.pytest for test05_selenium_locators_miniproject2.test_app_vwo_login_chrome" />
+        <item itemvalue="Python tests.pytest for test04_selenium_locators_miniproject2.test_app_vwo_free_trial_chrome" />
+        <item itemvalue="Python tests.pytest for test03_selenium_locators_miniproject1.test_app_vwo_login_chrome" />
+        <item itemvalue="Python tests.pytest for test08_Doubt.test_app_vwo_login_chrome" />
       </list>
     </recent_temporary>
   </component>
@@ -544,7 +547,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736772671549</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="11th Jan">
+      <option name="closed" value="true" />
+      <created>1737107376552</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1737107376552</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
