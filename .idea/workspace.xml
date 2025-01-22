@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="16th Jan">
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_18012025_Selenium_Tasks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_18012025_Selenium_Tasks/test08_selenium_task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_18012025_Selenium_Tasks/test09_selenium_task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Alerts_JS/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Alerts_JS/test15_Alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Modals/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Modals/test16_Modals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/test12_Wait_Implicit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/test13_Wait_Explicit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/test14_Wait_Explicit_Fluent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Web_tables/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Web_tables/test10_web_tables_static.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Web_tables/test11_web_tables_dynamic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -77,6 +85,14 @@
     "Python tests.pytest for test08_selenium_task1.test_ebay_search.executor": "Run",
     "Python tests.pytest for test08_selenium_tasks.test_ebay_search.executor": "Run",
     "Python tests.pytest for test09_selenium_task2.test_awesomeqa_registration.executor": "Run",
+    "Python tests.pytest for test10_web_tables.test_web_tables.executor": "Run",
+    "Python tests.pytest for test11_web_tables_dynamic.test_web_tables_dynamic.executor": "Run",
+    "Python tests.pytest for test12_Wait_Implicit.test_imp_wait.executor": "Run",
+    "Python tests.pytest for test13_Wait_Explicit.test_imp_wait.executor": "Run",
+    "Python tests.pytest for test14_Wait_Explicit_Fluent.test_implicit_fluent_wait.executor": "Run",
+    "Python tests.pytest for test15_Alerts.test_alerts_js_confirmation.executor": "Run",
+    "Python tests.pytest for test15_Alerts.test_alerts_js_prompt.executor": "Run",
+    "Python tests.pytest for test16_Modals.test_modals_html_css.executor": "Run",
     "Python tests.pytest for test_Lab169_PyTest_Learning_Allure Report.test_createbooking_positive.executor": "Run",
     "Python tests.pytest for test_Lab171_pytest_GET.test_get_request_positive.executor": "Run",
     "Python tests.pytest for test_Lab174_Pytest_POST.test_create_booking_negative_tc02.executor": "Run",
@@ -255,20 +271,23 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Jan_2025/ex_18012025_Selenium_Tasks",
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Jan_2025/ex_21012025_Selenium_Alerts",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_21012025_Selenium_Alerts" />
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_21012025_Selenium_Waits" />
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_21012025_Web_tables" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_18012025_Selenium_Tasks" />
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_16012025_Selenium_Locators" />
-      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_11012025_Selenium" />
-      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_09012025_Selenium" />
-      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan 2025\ex_09012025_Selenium" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_21012025_Selenium_Waits" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test08_selenium_task1.test_ebay_search">
+  <component name="RunManager" selected="Python tests.pytest for test16_Modals.test_modals_html_css">
     <configuration name="pytest for Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -286,106 +305,106 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for Jan_2025.ex_18012025_Selenium_Tasks.test08_selenium_task1.test_ebay_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test13_Wait_Explicit.test_imp_wait" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_18012025_Selenium_Tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Jan_2025.ex_18012025_Selenium_Tasks.test08_selenium_task1.test_ebay_search&quot;" />
+      <option name="_new_target" value="&quot;test13_Wait_Explicit.test_imp_wait&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test05_selenium_locators_miniproject2.test_app_vwo_login_chrome" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test14_Wait_Explicit_Fluent.test_implicit_fluent_wait" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test05_selenium_locators_miniproject2.test_app_vwo_login_chrome&quot;" />
+      <option name="_new_target" value="&quot;test14_Wait_Explicit_Fluent.test_implicit_fluent_wait&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test07_selenium_locators_Task.test_espocrm_login_click_tc01" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test15_Alerts.test_alerts_js_confirmation" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Alerts_JS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test07_selenium_locators_Task.test_espocrm_login_click_tc01&quot;" />
+      <option name="_new_target" value="&quot;test15_Alerts.test_alerts_js_confirmation&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test08_selenium_task1.test_ebay_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test15_Alerts.test_alerts_js_prompt" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_18012025_Selenium_Tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Alerts_JS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test08_selenium_task1.test_ebay_search&quot;" />
+      <option name="_new_target" value="&quot;test15_Alerts.test_alerts_js_prompt&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test09_selenium_task2.test_awesomeqa_registration" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test16_Modals.test_modals_html_css" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_18012025_Selenium_Tasks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Modals" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test09_selenium_task2.test_awesomeqa_registration&quot;" />
+      <option name="_new_target" value="&quot;test16_Modals.test_modals_html_css&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python tests.pytest for Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive" />
-      <item itemvalue="Python tests.pytest for test08_selenium_task1.test_ebay_search" />
-      <item itemvalue="Python tests.pytest for Jan_2025.ex_18012025_Selenium_Tasks.test08_selenium_task1.test_ebay_search" />
-      <item itemvalue="Python tests.pytest for test09_selenium_task2.test_awesomeqa_registration" />
-      <item itemvalue="Python tests.pytest for test05_selenium_locators_miniproject2.test_app_vwo_login_chrome" />
-      <item itemvalue="Python tests.pytest for test07_selenium_locators_Task.test_espocrm_login_click_tc01" />
+      <item itemvalue="Python tests.pytest for test13_Wait_Explicit.test_imp_wait" />
+      <item itemvalue="Python tests.pytest for test14_Wait_Explicit_Fluent.test_implicit_fluent_wait" />
+      <item itemvalue="Python tests.pytest for test15_Alerts.test_alerts_js_confirmation" />
+      <item itemvalue="Python tests.pytest for test15_Alerts.test_alerts_js_prompt" />
+      <item itemvalue="Python tests.pytest for test16_Modals.test_modals_html_css" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test08_selenium_task1.test_ebay_search" />
-        <item itemvalue="Python tests.pytest for test09_selenium_task2.test_awesomeqa_registration" />
-        <item itemvalue="Python tests.pytest for Jan_2025.ex_18012025_Selenium_Tasks.test08_selenium_task1.test_ebay_search" />
-        <item itemvalue="Python tests.pytest for test07_selenium_locators_Task.test_espocrm_login_click_tc01" />
-        <item itemvalue="Python tests.pytest for test05_selenium_locators_miniproject2.test_app_vwo_login_chrome" />
+        <item itemvalue="Python tests.pytest for test16_Modals.test_modals_html_css" />
+        <item itemvalue="Python tests.pytest for test15_Alerts.test_alerts_js_prompt" />
+        <item itemvalue="Python tests.pytest for test15_Alerts.test_alerts_js_confirmation" />
+        <item itemvalue="Python tests.pytest for test14_Wait_Explicit_Fluent.test_implicit_fluent_wait" />
+        <item itemvalue="Python tests.pytest for test13_Wait_Explicit.test_imp_wait" />
       </list>
     </recent_temporary>
   </component>
@@ -565,7 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737207905020</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="16th Jan">
+      <option name="closed" value="true" />
+      <created>1737428943659</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1737428943659</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
