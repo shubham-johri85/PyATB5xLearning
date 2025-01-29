@@ -16,8 +16,8 @@ def test_web_tables():
     name = contact_name.text
     print("The name in table is-->", name)
     country = driver.find_element(By.XPATH, "//table[@id='customers']/tbody/tr[4]/td[2]/following-sibling::td")
-    comntry_name = country.text
-    print("The country is-->", comntry_name)
+    country_name = country.text
+    print("The country is-->", country_name)
     company = driver.find_element(By.XPATH, "//table[@id='customers']/tbody/tr[4]/td[2]/preceding-sibling::td")
     company_name = company.text
     print("He is from-->", company_name)

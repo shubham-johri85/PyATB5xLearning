@@ -4,20 +4,65 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="16th Jan">
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Alerts_JS/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Alerts_JS/test15_Alerts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Modals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Modals/test16_Modals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/test12_Wait_Implicit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/test13_Wait_Explicit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/test14_Wait_Explicit_Fluent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Web_tables/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Web_tables/test10_web_tables_static.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Web_tables/test11_web_tables_dynamic.py" afterDir="false" />
+    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="21st Jan">
+      <change afterPath="$PROJECT_DIR$/Jan/ex06_21012025_Selenium_Web_tables/test_web_tables_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/test17_Selenium_Actions_Keyboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/test18_Selenium_Actions_Mouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/test19_Selenium_Actions_Mouse_clickandhold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/test20_Selenium_Actions_MakeMyTrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/test21_Selenium_Windows_handles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/test22_Selenium_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/test23_Selenium_Iframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex11_25012025_Selenium_Inputbox_checkbox_SVG_Exceptions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex11_25012025_Selenium_Inputbox_checkbox_SVG_Exceptions/test23_Selenium_IB_CB_RB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex11_25012025_Selenium_Inputbox_checkbox_SVG_Exceptions/test24_Selenium_SVG_Simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex11_25012025_Selenium_Inputbox_checkbox_SVG_Exceptions/test25_Selenium_SVG_complex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex11_25012025_Selenium_Inputbox_checkbox_SVG_Exceptions/test26_Selenium_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex11_25012025_Selenium_Inputbox_checkbox_SVG_Exceptions/test27_Selenium_Exception_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM/test27_Selenium_JS_Executor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM/test28_Selenium_JS_Executor2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM/test29_Selenium_JS_Executor_shadowDom.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_02012025_Fixtures_Python/Update_Request_Using_Fixture.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex01_02012025_Fixtures_Python/Update_Request_Using_Fixture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_02012025_Fixtures_Python/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex01_02012025_Fixtures_Python/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_02012025_Fixtures_Python/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex01_02012025_Fixtures_Python/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_02012025_Fixtures_Python/test_Lab179_Fixture_Demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex01_02012025_Fixtures_Python/test_Lab179_Fixture_Demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_09012025_Selenium/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex02_09012025_Selenium/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_09012025_Selenium/test_selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex02_09012025_Selenium/test_selenium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_09012025_Selenium/test_selenium2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex02_09012025_Selenium/test_selenium2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_09012025_Selenium/test_selenium_commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex02_09012025_Selenium/test_selenium_commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_09012025_Selenium/test_selenium_commands2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex02_09012025_Selenium/test_selenium_commands2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_09012025_Selenium/test_selenium_miniproject.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex02_09012025_Selenium/test_selenium_miniproject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_11012025_Selenium/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex03_11012025_Selenium/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_11012025_Selenium/test_selenium_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex03_11012025_Selenium/test_selenium_Task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_11012025_Selenium/test_selenium_close_quit_commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex03_11012025_Selenium/test_selenium_close_quit_commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_11012025_Selenium/test_selenium_multiplebrowsers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex03_11012025_Selenium/test_selenium_multiplebrowsers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test01_selenium_locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/test01_selenium_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test02_selenium_locators_options.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/test02_selenium_locators_options.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test03_selenium_locators_miniproject1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/test03_selenium_locators_miniproject1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test04_selenium_locators_miniproject2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/test04_selenium_locators_miniproject2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test05_selenium_locators_miniproject2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/test05_selenium_locators_miniproject2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test06_selenium_locators_miniproject2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/test06_selenium_locators_miniproject2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test07_selenium_locators_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/test07_selenium_locators_Task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_18012025_Selenium_Tasks/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex05_18012025_Selenium_Tasks/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_18012025_Selenium_Tasks/test08_selenium_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex05_18012025_Selenium_Tasks/test08_selenium_task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_18012025_Selenium_Tasks/test09_selenium_task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex05_18012025_Selenium_Tasks/test09_selenium_task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Alerts_JS/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex06_21012025_Selenium_Web_tables/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Alerts_JS/test15_Alerts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex08_21012025_Selenium_Alerts_JS/test15_Alerts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Modals/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex07_21012025_Selenium_Waits/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Modals/test16_Modals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex09_21012025_Selenium_Modals/test16_Modals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex08_21012025_Selenium_Alerts_JS/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/test12_Wait_Implicit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex07_21012025_Selenium_Waits/test12_Wait_Implicit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/test13_Wait_Explicit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex07_21012025_Selenium_Waits/test13_Wait_Explicit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/test14_Wait_Explicit_Fluent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex07_21012025_Selenium_Waits/test14_Wait_Explicit_Fluent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Web_tables/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex09_21012025_Selenium_Modals/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Web_tables/test10_web_tables_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex06_21012025_Selenium_Web_tables/test10_web_tables_static.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Web_tables/test11_web_tables_dynamic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex06_21012025_Selenium_Web_tables/test11_web_tables_dynamic.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +138,21 @@
     "Python tests.pytest for test15_Alerts.test_alerts_js_confirmation.executor": "Run",
     "Python tests.pytest for test15_Alerts.test_alerts_js_prompt.executor": "Run",
     "Python tests.pytest for test16_Modals.test_modals_html_css.executor": "Run",
+    "Python tests.pytest for test17_Actions_Keyboard.test_verify_action_keyboard.executor": "Run",
+    "Python tests.pytest for test18_Actions_Mouse.test_verify_action_keyboard.executor": "Run",
+    "Python tests.pytest for test19_Actions_Mouse_clickandhold.test_verify_action_click_hold.executor": "Run",
+    "Python tests.pytest for test20_Selenium_Actions_MakeMyTrip.test_verify_actions_MakeMyTrip.executor": "Run",
+    "Python tests.pytest for test21_Selenium_Windows_handles.test_verify_actions_Window.executor": "Run",
+    "Python tests.pytest for test22_Selenium_Task1.test_spicejet_actions.executor": "Run",
+    "Python tests.pytest for test23_Selenium_IB_CB_RB.test_input_radio_checkbox.executor": "Run",
+    "Python tests.pytest for test23_Selenium_Iframe.test_verify_action_iframe.executor": "Run",
+    "Python tests.pytest for test24_Selenium_SVG.test_svg_flipkart.executor": "Run",
+    "Python tests.pytest for test25_Selenium_SVG_complex.test_svg_maps.executor": "Run",
+    "Python tests.pytest for test26_Selenium_Exception.test_exception.executor": "Run",
+    "Python tests.pytest for test27_Selenium_Exception_IQ.test_exception.executor": "Run",
+    "Python tests.pytest for test27_Selenium_JS_Executor.test_verify_js_scroll.executor": "Run",
+    "Python tests.pytest for test28_Selenium_JS_Executor2.test_verify_js_scroll.executor": "Run",
+    "Python tests.pytest for test29_Selenium_JS_Executor_shadowDom.test_verify_shadowDom_byjs.executor": "Run",
     "Python tests.pytest for test_Lab169_PyTest_Learning_Allure Report.test_createbooking_positive.executor": "Run",
     "Python tests.pytest for test_Lab171_pytest_GET.test_get_request_positive.executor": "Run",
     "Python tests.pytest for test_Lab174_Pytest_POST.test_create_booking_negative_tc02.executor": "Run",
@@ -116,6 +176,7 @@
     "Python tests.pytest for test_selenium_locators.test_katalon_firefox.executor": "Run",
     "Python tests.pytest for test_selenium_locators_miniproject.test_app_vwo_login_chrome.executor": "Run",
     "Python tests.pytest for test_selenium_locators_options.test_katalon_chrome.executor": "Run",
+    "Python tests.pytest for test_web_tables_task.test_web_tables_ohrm.executor": "Run",
     "Python tests.pytest in test_Lab178_Pytest_Task#2.py.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
@@ -271,23 +332,23 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Jan_2025/ex_21012025_Selenium_Alerts",
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_21012025_Selenium_Alerts" />
-      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_21012025_Selenium_Waits" />
-      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_21012025_Web_tables" />
-      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_18012025_Selenium_Tasks" />
-      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_16012025_Selenium_Locators" />
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan\ex12_27012025_Selenium_JSExecutor_ShodowDOM" />
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan\ex10_23012025_Selenium_Actions_Windows_iframe_JS" />
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan\ex06_21012025_Selenium_Web_tables" />
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan\ex11_25012025_Selenium_Inputbox_checkbox_SVG_Exceptions" />
+      <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex10_23012025_Selenium_Actions_Windows_iframe_JS" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_21012025_Selenium_Waits" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test16_Modals.test_modals_html_css">
+  <component name="RunManager" selected="Python tests.pytest for test29_Selenium_JS_Executor_shadowDom.test_verify_shadowDom_byjs">
     <configuration name="pytest for Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -305,106 +366,106 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test13_Wait_Explicit.test_imp_wait" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test23_Selenium_Iframe.test_verify_action_iframe" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test13_Wait_Explicit.test_imp_wait&quot;" />
+      <option name="_new_target" value="&quot;test23_Selenium_Iframe.test_verify_action_iframe&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test14_Wait_Explicit_Fluent.test_implicit_fluent_wait" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test27_Selenium_JS_Executor.test_verify_js_scroll" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test14_Wait_Explicit_Fluent.test_implicit_fluent_wait&quot;" />
+      <option name="_new_target" value="&quot;test27_Selenium_JS_Executor.test_verify_js_scroll&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test15_Alerts.test_alerts_js_confirmation" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test28_Selenium_JS_Executor2.test_verify_js_scroll" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Alerts_JS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test15_Alerts.test_alerts_js_confirmation&quot;" />
+      <option name="_new_target" value="&quot;test28_Selenium_JS_Executor2.test_verify_js_scroll&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test15_Alerts.test_alerts_js_prompt" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test29_Selenium_JS_Executor_shadowDom.test_verify_shadowDom_byjs" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Alerts_JS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test15_Alerts.test_alerts_js_prompt&quot;" />
+      <option name="_new_target" value="&quot;test29_Selenium_JS_Executor_shadowDom.test_verify_shadowDom_byjs&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test16_Modals.test_modals_html_css" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_web_tables_task.test_web_tables_ohrm" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Modals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex06_21012025_Selenium_Web_tables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test16_Modals.test_modals_html_css&quot;" />
+      <option name="_new_target" value="&quot;test_web_tables_task.test_web_tables_ohrm&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python tests.pytest for Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive" />
-      <item itemvalue="Python tests.pytest for test13_Wait_Explicit.test_imp_wait" />
-      <item itemvalue="Python tests.pytest for test14_Wait_Explicit_Fluent.test_implicit_fluent_wait" />
-      <item itemvalue="Python tests.pytest for test15_Alerts.test_alerts_js_confirmation" />
-      <item itemvalue="Python tests.pytest for test15_Alerts.test_alerts_js_prompt" />
-      <item itemvalue="Python tests.pytest for test16_Modals.test_modals_html_css" />
+      <item itemvalue="Python tests.pytest for test27_Selenium_JS_Executor.test_verify_js_scroll" />
+      <item itemvalue="Python tests.pytest for test28_Selenium_JS_Executor2.test_verify_js_scroll" />
+      <item itemvalue="Python tests.pytest for test29_Selenium_JS_Executor_shadowDom.test_verify_shadowDom_byjs" />
+      <item itemvalue="Python tests.pytest for test23_Selenium_Iframe.test_verify_action_iframe" />
+      <item itemvalue="Python tests.pytest for test_web_tables_task.test_web_tables_ohrm" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test16_Modals.test_modals_html_css" />
-        <item itemvalue="Python tests.pytest for test15_Alerts.test_alerts_js_prompt" />
-        <item itemvalue="Python tests.pytest for test15_Alerts.test_alerts_js_confirmation" />
-        <item itemvalue="Python tests.pytest for test14_Wait_Explicit_Fluent.test_implicit_fluent_wait" />
-        <item itemvalue="Python tests.pytest for test13_Wait_Explicit.test_imp_wait" />
+        <item itemvalue="Python tests.pytest for test29_Selenium_JS_Executor_shadowDom.test_verify_shadowDom_byjs" />
+        <item itemvalue="Python tests.pytest for test28_Selenium_JS_Executor2.test_verify_js_scroll" />
+        <item itemvalue="Python tests.pytest for test27_Selenium_JS_Executor.test_verify_js_scroll" />
+        <item itemvalue="Python tests.pytest for test_web_tables_task.test_web_tables_ohrm" />
+        <item itemvalue="Python tests.pytest for test23_Selenium_Iframe.test_verify_action_iframe" />
       </list>
     </recent_temporary>
   </component>
@@ -592,7 +653,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737428943659</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="21st Jan">
+      <option name="closed" value="true" />
+      <created>1737550325974</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1737550325974</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -616,6 +685,7 @@
     <MESSAGE value="2nd Jan" />
     <MESSAGE value="11th Jan" />
     <MESSAGE value="16th Jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="16th Jan" />
+    <MESSAGE value="21st Jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="21st Jan" />
   </component>
 </project>
