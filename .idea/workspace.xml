@@ -4,65 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="21st Jan">
-      <change afterPath="$PROJECT_DIR$/Jan/ex06_21012025_Selenium_Web_tables/test_web_tables_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/test17_Selenium_Actions_Keyboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/test18_Selenium_Actions_Mouse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/test19_Selenium_Actions_Mouse_clickandhold.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/test20_Selenium_Actions_MakeMyTrip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/test21_Selenium_Windows_handles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/test22_Selenium_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS/test23_Selenium_Iframe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex11_25012025_Selenium_Inputbox_checkbox_SVG_Exceptions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex11_25012025_Selenium_Inputbox_checkbox_SVG_Exceptions/test23_Selenium_IB_CB_RB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex11_25012025_Selenium_Inputbox_checkbox_SVG_Exceptions/test24_Selenium_SVG_Simple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex11_25012025_Selenium_Inputbox_checkbox_SVG_Exceptions/test25_Selenium_SVG_complex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex11_25012025_Selenium_Inputbox_checkbox_SVG_Exceptions/test26_Selenium_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex11_25012025_Selenium_Inputbox_checkbox_SVG_Exceptions/test27_Selenium_Exception_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM/test27_Selenium_JS_Executor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM/test28_Selenium_JS_Executor2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM/test29_Selenium_JS_Executor_shadowDom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+    <list default="true" id="493bbbec-8c4a-4c7d-9838-28ef3d0f2f49" name="Changes" comment="27th Jan">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_02012025_Fixtures_Python/Update_Request_Using_Fixture.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex01_02012025_Fixtures_Python/Update_Request_Using_Fixture.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_02012025_Fixtures_Python/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex01_02012025_Fixtures_Python/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_02012025_Fixtures_Python/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex01_02012025_Fixtures_Python/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_02012025_Fixtures_Python/test_Lab179_Fixture_Demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex01_02012025_Fixtures_Python/test_Lab179_Fixture_Demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_09012025_Selenium/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex02_09012025_Selenium/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_09012025_Selenium/test_selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex02_09012025_Selenium/test_selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_09012025_Selenium/test_selenium2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex02_09012025_Selenium/test_selenium2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_09012025_Selenium/test_selenium_commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex02_09012025_Selenium/test_selenium_commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_09012025_Selenium/test_selenium_commands2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex02_09012025_Selenium/test_selenium_commands2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_09012025_Selenium/test_selenium_miniproject.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex02_09012025_Selenium/test_selenium_miniproject.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_11012025_Selenium/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex03_11012025_Selenium/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_11012025_Selenium/test_selenium_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex03_11012025_Selenium/test_selenium_Task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_11012025_Selenium/test_selenium_close_quit_commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex03_11012025_Selenium/test_selenium_close_quit_commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_11012025_Selenium/test_selenium_multiplebrowsers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex03_11012025_Selenium/test_selenium_multiplebrowsers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test01_selenium_locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/test01_selenium_locators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test02_selenium_locators_options.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/test02_selenium_locators_options.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test03_selenium_locators_miniproject1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/test03_selenium_locators_miniproject1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test04_selenium_locators_miniproject2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/test04_selenium_locators_miniproject2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test05_selenium_locators_miniproject2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/test05_selenium_locators_miniproject2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test06_selenium_locators_miniproject2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/test06_selenium_locators_miniproject2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_16012025_Selenium_Locators/test07_selenium_locators_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex04_16012025_Selenium_Locators/test07_selenium_locators_Task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_18012025_Selenium_Tasks/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex05_18012025_Selenium_Tasks/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_18012025_Selenium_Tasks/test08_selenium_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex05_18012025_Selenium_Tasks/test08_selenium_task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_18012025_Selenium_Tasks/test09_selenium_task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex05_18012025_Selenium_Tasks/test09_selenium_task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Alerts_JS/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex06_21012025_Selenium_Web_tables/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Alerts_JS/test15_Alerts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex08_21012025_Selenium_Alerts_JS/test15_Alerts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Modals/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex07_21012025_Selenium_Waits/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Modals/test16_Modals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex09_21012025_Selenium_Modals/test16_Modals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex08_21012025_Selenium_Alerts_JS/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/test12_Wait_Implicit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex07_21012025_Selenium_Waits/test12_Wait_Implicit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/test13_Wait_Explicit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex07_21012025_Selenium_Waits/test13_Wait_Explicit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Waits/test14_Wait_Explicit_Fluent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex07_21012025_Selenium_Waits/test14_Wait_Explicit_Fluent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Web_tables/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex09_21012025_Selenium_Modals/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Web_tables/test10_web_tables_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex06_21012025_Selenium_Web_tables/test10_web_tables_static.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jan_2025/ex_21012025_Selenium_Web_tables/test11_web_tables_dynamic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex06_21012025_Selenium_Web_tables/test11_web_tables_dynamic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan/ex02_09012025_Selenium/test_selenium_miniproject.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex02_09012025_Selenium/test_selenium_miniproject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov_2024/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov_2024/ex_05112024_Python_Basics/Lab001_Python_HelloWorld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov_2024/ex_16112024_Loops/Lab052_For Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov_2024/ex_16112024_Loops/Lab052_For Loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov_2024/ex_16112024_Loops/Lab056_While_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov_2024/ex_16112024_Loops/Lab056_While_Loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov_2024/ex_23112024_Lambda_List_Tuple_SET/Lab107_SET.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov_2024/ex_23112024_Lambda_List_Tuple_SET/Lab107_SET.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov_2024/ex_26112024_Dict/Lab115_Dict_Concepts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov_2024/ex_26112024_Dict/Lab115_Dict_Concepts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov_2024/ex_28112024_Oops Concept/Lab125_Class_Constructor2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov_2024/ex_28112024_Oops Concept/Lab125_Class_Constructor2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,232 +60,235 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_Lab167_PyTest_Learning.test_main_method2.executor": "Run",
-    "Python tests.Python tests for test_Lab167_PyTest_Learning.test_method2.executor": "Run",
-    "Python tests.pytest for Lab081_Decorators_part2.test_ui.executor": "Run",
-    "Python tests.pytest for Update_Request_Using_Fixture.test_update1.executor": "Run",
-    "Python tests.pytest for test03_selenium_locators_miniproject1.test_app_vwo_login_chrome.executor": "Run",
-    "Python tests.pytest for test04_selenium_locators_miniproject2.test_app_vwo_free_trial_chrome.executor": "Run",
-    "Python tests.pytest for test04_selenium_locators_miniproject2.test_app_vwo_login_chrome.executor": "Run",
-    "Python tests.pytest for test05_selenium_locators_miniproject2.test_app_vwo_login_chrome.executor": "Run",
-    "Python tests.pytest for test06_selenium_locators_miniproject2.test_app_vwo_login_chrome.executor": "Run",
-    "Python tests.pytest for test07_selenium_locators_Task.test_espocrm_AdvancedPack_click_TC02.executor": "Run",
-    "Python tests.pytest for test07_selenium_locators_Task.test_espocrm_ProjectManagement_click_TC04.executor": "Run",
-    "Python tests.pytest for test07_selenium_locators_Task.test_espocrm_SalesPack_click_TC03.executor": "Run",
-    "Python tests.pytest for test07_selenium_locators_Task.test_espocrm_login_click_TC01.executor": "Run",
-    "Python tests.pytest for test07_selenium_locators_Task.test_espocrm_login_click_tc01.executor": "Run",
-    "Python tests.pytest for test08_Doubt.test_app_vwo_login_chrome.executor": "Run",
-    "Python tests.pytest for test08_selenium_task1.test_ebay_search.executor": "Run",
-    "Python tests.pytest for test08_selenium_tasks.test_ebay_search.executor": "Run",
-    "Python tests.pytest for test09_selenium_task2.test_awesomeqa_registration.executor": "Run",
-    "Python tests.pytest for test10_web_tables.test_web_tables.executor": "Run",
-    "Python tests.pytest for test11_web_tables_dynamic.test_web_tables_dynamic.executor": "Run",
-    "Python tests.pytest for test12_Wait_Implicit.test_imp_wait.executor": "Run",
-    "Python tests.pytest for test13_Wait_Explicit.test_imp_wait.executor": "Run",
-    "Python tests.pytest for test14_Wait_Explicit_Fluent.test_implicit_fluent_wait.executor": "Run",
-    "Python tests.pytest for test15_Alerts.test_alerts_js_confirmation.executor": "Run",
-    "Python tests.pytest for test15_Alerts.test_alerts_js_prompt.executor": "Run",
-    "Python tests.pytest for test16_Modals.test_modals_html_css.executor": "Run",
-    "Python tests.pytest for test17_Actions_Keyboard.test_verify_action_keyboard.executor": "Run",
-    "Python tests.pytest for test18_Actions_Mouse.test_verify_action_keyboard.executor": "Run",
-    "Python tests.pytest for test19_Actions_Mouse_clickandhold.test_verify_action_click_hold.executor": "Run",
-    "Python tests.pytest for test20_Selenium_Actions_MakeMyTrip.test_verify_actions_MakeMyTrip.executor": "Run",
-    "Python tests.pytest for test21_Selenium_Windows_handles.test_verify_actions_Window.executor": "Run",
-    "Python tests.pytest for test22_Selenium_Task1.test_spicejet_actions.executor": "Run",
-    "Python tests.pytest for test23_Selenium_IB_CB_RB.test_input_radio_checkbox.executor": "Run",
-    "Python tests.pytest for test23_Selenium_Iframe.test_verify_action_iframe.executor": "Run",
-    "Python tests.pytest for test24_Selenium_SVG.test_svg_flipkart.executor": "Run",
-    "Python tests.pytest for test25_Selenium_SVG_complex.test_svg_maps.executor": "Run",
-    "Python tests.pytest for test26_Selenium_Exception.test_exception.executor": "Run",
-    "Python tests.pytest for test27_Selenium_Exception_IQ.test_exception.executor": "Run",
-    "Python tests.pytest for test27_Selenium_JS_Executor.test_verify_js_scroll.executor": "Run",
-    "Python tests.pytest for test28_Selenium_JS_Executor2.test_verify_js_scroll.executor": "Run",
-    "Python tests.pytest for test29_Selenium_JS_Executor_shadowDom.test_verify_shadowDom_byjs.executor": "Run",
-    "Python tests.pytest for test_Lab169_PyTest_Learning_Allure Report.test_createbooking_positive.executor": "Run",
-    "Python tests.pytest for test_Lab171_pytest_GET.test_get_request_positive.executor": "Run",
-    "Python tests.pytest for test_Lab174_Pytest_POST.test_create_booking_negative_tc02.executor": "Run",
-    "Python tests.pytest for test_Lab174_Pytest_POST.test_create_booking_positive_tc01.executor": "Run",
-    "Python tests.pytest for test_Lab175_Pytest_POST_Create Token.test_create_token_positive_tc01.executor": "Run",
-    "Python tests.pytest for test_Lab176_Pytest_PUT.test_delete_booking.executor": "Run",
-    "Python tests.pytest for test_Lab176_Pytest_PUT.test_put_request.executor": "Run",
-    "Python tests.pytest for test_Lab177_Pytest_Task#1.test_delete_booking.executor": "Run",
-    "Python tests.pytest for test_Lab177_Pytest_Task#1.test_deleted_bookingid.executor": "Run",
-    "Python tests.pytest for test_Lab178_Pytest_Task#2.test_Update_Patch_request.executor": "Run",
-    "Python tests.pytest for test_Lab178_Pytest_Task#2.test_get_booking_all.executor": "Run",
-    "Python tests.pytest for test_Lab179_Fixture_Demo.test_Update.executor": "Run",
-    "Python tests.pytest for test_selenium.test_vwo_login.executor": "Run",
-    "Python tests.pytest for test_selenium.test_vwo_login2.executor": "Run",
-    "Python tests.pytest for test_selenium.test_vwo_login3.executor": "Run",
-    "Python tests.pytest for test_selenium2.test_vwo_login.executor": "Run",
-    "Python tests.pytest for test_selenium_Task.test_title_currentURL_espocrm.executor": "Run",
-    "Python tests.pytest for test_selenium_close_quit_commands.test_katalon_firefox.executor": "Run",
-    "Python tests.pytest for test_selenium_commands.test_vwo_login.executor": "Run",
-    "Python tests.pytest for test_selenium_commands2.test_vwo_login.executor": "Run",
-    "Python tests.pytest for test_selenium_locators.test_katalon_firefox.executor": "Run",
-    "Python tests.pytest for test_selenium_locators_miniproject.test_app_vwo_login_chrome.executor": "Run",
-    "Python tests.pytest for test_selenium_locators_options.test_katalon_chrome.executor": "Run",
-    "Python tests.pytest for test_web_tables_task.test_web_tables_ohrm.executor": "Run",
-    "Python tests.pytest in test_Lab178_Pytest_Task#2.py.executor": "Run",
-    "Python.Lab001_Python_HelloWorld.executor": "Run",
-    "Python.Lab002_Python_Basics.executor": "Run",
-    "Python.Lab003_Python_Basics.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab007_Variables_Identifiers_Rules.executor": "Run",
-    "Python.Lab008_Dynamically_Typed.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab010.executor": "Run",
-    "Python.Lab011.executor": "Run",
-    "Python.Lab012.executor": "Run",
-    "Python.Lab013.executor": "Run",
-    "Python.Lab014_Maths_Functions.executor": "Run",
-    "Python.Lab015.executor": "Run",
-    "Python.Lab016.executor": "Run",
-    "Python.Lab017.executor": "Run",
-    "Python.Lab018.executor": "Run",
-    "Python.Lab019.executor": "Run",
-    "Python.Lab020_Built-in_Functions.executor": "Run",
-    "Python.Lab021_UserInput.executor": "Run",
-    "Python.Lab022_User_Input_Sum_Of_Two_Numbers.executor": "Run",
-    "Python.Lab023_Strings.executor": "Run",
-    "Python.Lab024_Strings.executor": "Run",
-    "Python.Lab025_Strings.executor": "Run",
-    "Python.Lab027_Escape_Charactors.executor": "Run",
-    "Python.Lab028_Escape_Char.executor": "Run",
-    "Python.Lab029_Task 1.executor": "Run",
-    "Python.Lab030_Task 2.executor": "Run",
-    "Python.Lab046_Task 3.executor": "Run",
-    "Python.Lab047_if_else.executor": "Run",
-    "Python.Lab048_Grade_Calc.executor": "Run",
-    "Python.Lab049_Task 1_Triangle Classifier.executor": "Run",
-    "Python.Lab050_Task 2_Leap Year Checker.executor": "Run",
-    "Python.Lab051.executor": "Run",
-    "Python.Lab052_For Loop.executor": "Run",
-    "Python.Lab053_For Loop.executor": "Run",
-    "Python.Lab054.executor": "Run",
-    "Python.Lab055.executor": "Run",
-    "Python.Lab056_While_Loop.executor": "Run",
-    "Python.Lab057_For_Example.executor": "Run",
-    "Python.Lab058_For_break.executor": "Run",
-    "Python.Lab059_Question.executor": "Run",
-    "Python.Lab060_Pass_Break.executor": "Run",
-    "Python.Lab061_Question.executor": "Run",
-    "Python.Lab062_continue.executor": "Run",
-    "Python.Lab063_Match_Statement.executor": "Run",
-    "Python.Lab064_Task.executor": "Run",
-    "Python.Lab065_Functions.executor": "Run",
-    "Python.Lab066_Functions_Part2.executor": "Run",
-    "Python.Lab067_Functions_Part3.executor": "Run",
-    "Python.Lab068_Functions_Pass.executor": "Run",
-    "Python.Lab069_Functions_Types.executor": "Run",
-    "Python.Lab070_Functions_input.executor": "Run",
-    "Python.Lab071_Functions_Types 2.executor": "Run",
-    "Python.Lab072_Functions_Interview_Questions.executor": "Run",
-    "Python.Lab073_IQ.executor": "Run",
-    "Python.Lab074_Args.executor": "Run",
-    "Python.Lab075_Real_exmpl.executor": "Run",
-    "Python.Lab076.executor": "Run",
-    "Python.Lab077.executor": "Run",
-    "Python.Lab078_Local_Variable.executor": "Run",
-    "Python.Lab079_Inner_Function.executor": "Run",
-    "Python.Lab080_Decorators.executor": "Run",
-    "Python.Lab081_Decorarors_part2.executor": "Run",
-    "Python.Lab081_Decorators_part2.executor": "Run",
-    "Python.Lab082_without_Decoraror.executor": "Run",
-    "Python.Lab083_Real_example_Decorator.executor": "Run",
-    "Python.Lab084_Multiple_Decorator.executor": "Run",
-    "Python.Lab085_Type_Conversion.executor": "Run",
-    "Python.Lab086_Task_For_Double loop.executor": "Run",
-    "Python.Lab087_Lambda.executor": "Run",
-    "Python.Lab088_Lambda 2.executor": "Run",
-    "Python.Lab089_Lambda 3.executor": "Run",
-    "Python.Lab090_Lambda4.executor": "Run",
-    "Python.Lab091_Lambda_Multiple_Functions.executor": "Run",
-    "Python.Lab092_Lambda_Multiple_Functions.executor": "Run",
-    "Python.Lab093_Lambda_real_use.executor": "Run",
-    "Python.Lab094_List.executor": "Run",
-    "Python.Lab095_List_Reassigning_values.executor": "Run",
-    "Python.Lab096_List_for_loop.executor": "Run",
-    "Python.Lab097_List_Index.executor": "Run",
-    "Python.Lab098_List_append().executor": "Run",
-    "Python.Lab099_List_extend().executor": "Run",
-    "Python.Lab100_List_insert().executor": "Run",
-    "Python.Lab101_List_remove().executor": "Run",
-    "Python.Lab102_List_Sorting.executor": "Run",
-    "Python.Lab103_List_pop().executor": "Run",
-    "Python.Lab104_Tuple.executor": "Run",
-    "Python.Lab105_Tuple 2.executor": "Run",
-    "Python.Lab106_Tuple3.executor": "Run",
-    "Python.Lab107_SET 2.executor": "Run",
-    "Python.Lab107_SET.executor": "Run",
-    "Python.Lab109_SET 3.executor": "Run",
-    "Python.Lab110_SET_IQ.executor": "Run",
-    "Python.Lab111_Dict..executor": "Run",
-    "Python.Lab112_Dict_P2.executor": "Run",
-    "Python.Lab113_Multiple_Dict.executor": "Run",
-    "Python.Lab114_Multiple_Dict_Question.executor": "Run",
-    "Python.Lab115_Dict_Concepts.executor": "Run",
-    "Python.Lab116_Dict_Interview Question.executor": "Run",
-    "Python.Lab117_Dict_Missing_Key.executor": "Run",
-    "Python.Lab118_Dict_Interview Question.executor": "Run",
-    "Python.Lab119_Dict_Interview Question.executor": "Run",
-    "Python.Lab120_Dict_Question.executor": "Run",
-    "Python.Lab121_Dict_Question.executor": "Run",
-    "Python.Lab122_Dict_Interview Question.executor": "Run",
-    "Python.Lab123_Oops.executor": "Run",
-    "Python.Lab124_Class_Constructor.executor": "Run",
-    "Python.Lab125_Class_Constructor2.executor": "Run",
-    "Python.Lab126_Class_Constructor3.executor": "Run",
-    "Python.Lab127_Question_Calc.executor": "Run",
-    "Python.Lab128_Question_Calc with PC.executor": "Run",
-    "Python.Lab129_Task 1.executor": "Run",
-    "Python.Lab131_Oops.executor": "Run",
-    "Python.Lab132_Login Page.executor": "Debug",
-    "Python.Lab133_Oops_Encapsulation.executor": "Run",
-    "Python.Lab134_Encap_Example.executor": "Run",
-    "Python.Lab135_Encap_Example2.executor": "Run",
-    "Python.Lab136_Inheritance_Single.executor": "Run",
-    "Python.Lab137_Inheritance_Multilevel.executor": "Run",
-    "Python.Lab138_Inheritance_Multiple.executor": "Run",
-    "Python.Lab139_Inheritance_hierarchical.executor": "Run",
-    "Python.Lab140_Inheritance_Real_Example.executor": "Run",
-    "Python.Lab141_Polymorphism_Method Overloading.executor": "Run",
-    "Python.Lab142_Polymorphism_Method Overriding.executor": "Run",
-    "Python.Lab143_Polymorphism_Method Overriding_Real Example.executor": "Run",
-    "Python.Lab144_Abstraction.executor": "Run",
-    "Python.Lab145_Oops_Abstraction2.executor": "Run",
-    "Python.Lab146_Oops_Abstraction3.executor": "Run",
-    "Python.Lab147_Oops_Abstraction4.executor": "Run",
-    "Python.Lab148_Oops_Static Method.executor": "Run",
-    "Python.Lab149_Oops_Static Method2.executor": "Run",
-    "Python.Lab150_Task.executor": "Run",
-    "Python.Lab151_Exceptions.executor": "Run",
-    "Python.Lab152_Exceptions2.executor": "Run",
-    "Python.Lab153_Exceptions_else_finally.executor": "Run",
-    "Python.Lab154_Modules in Python_OS Module.executor": "Run",
-    "Python.Lab155_Exceptions_Example.executor": "Run",
-    "Python.Lab156_Exceptions_Example.executor": "Run",
-    "Python.Lab157_file_io.executor": "Run",
-    "Python.Lab158_Custom_Exception.executor": "Run",
-    "Python.Lab159_main_method.executor": "Run",
-    "Python.Lab160_main_method2.executor": "Run",
-    "Python.Lab161.CSV_files.executor": "Run",
-    "Python.Lab162.CSV_files_using pandas.executor": "Run",
-    "Python.Lab163_Modules.executor": "Run",
-    "Python.Lab164_Modules2.executor": "Run",
-    "Python.Lab165_Import From.executor": "Run",
-    "Python.Lab166_Import From2.executor": "Run",
-    "Python.conftest.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PyATB5xLearning/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_Lab167_PyTest_Learning.test_main_method2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab167_PyTest_Learning.test_method2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for Lab081_Decorators_part2.test_ui.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for Update_Request_Using_Fixture.test_update1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test03_selenium_locators_miniproject1.test_app_vwo_login_chrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test04_selenium_locators_miniproject2.test_app_vwo_free_trial_chrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test04_selenium_locators_miniproject2.test_app_vwo_login_chrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test05_selenium_locators_miniproject2.test_app_vwo_login_chrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test06_selenium_locators_miniproject2.test_app_vwo_login_chrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test07_selenium_locators_Task.test_espocrm_AdvancedPack_click_TC02.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test07_selenium_locators_Task.test_espocrm_ProjectManagement_click_TC04.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test07_selenium_locators_Task.test_espocrm_SalesPack_click_TC03.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test07_selenium_locators_Task.test_espocrm_login_click_TC01.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test07_selenium_locators_Task.test_espocrm_login_click_tc01.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test08_Doubt.test_app_vwo_login_chrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test08_selenium_task1.test_ebay_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test08_selenium_tasks.test_ebay_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test09_selenium_task2.test_awesomeqa_registration.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test10_web_tables.test_web_tables.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test11_web_tables_dynamic.test_web_tables_dynamic.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test12_Wait_Implicit.test_imp_wait.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test13_Wait_Explicit.test_imp_wait.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test14_Wait_Explicit_Fluent.test_implicit_fluent_wait.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test15_Alerts.test_alerts_js_confirmation.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test15_Alerts.test_alerts_js_prompt.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test16_Modals.test_modals_html_css.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test17_Actions_Keyboard.test_verify_action_keyboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test18_Actions_Mouse.test_verify_action_keyboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test19_Actions_Mouse_clickandhold.test_verify_action_click_hold.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test20_Selenium_Actions_MakeMyTrip.test_verify_actions_MakeMyTrip.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test21_Selenium_Windows_handles.test_verify_actions_Window.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test22_Selenium_Task1.test_spicejet_actions.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test23_Selenium_IB_CB_RB.test_input_radio_checkbox.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test23_Selenium_Iframe.test_verify_action_iframe.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test24_Selenium_SVG.test_svg_flipkart.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test25_Selenium_SVG_complex.test_svg_maps.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test26_Selenium_Exception.test_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test27_Selenium_Exception_IQ.test_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test27_Selenium_JS_Executor.test_verify_js_scroll.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test28_Selenium_JS_Executor2.test_verify_js_scroll.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test29_Selenium_JS_Executor_shadowDom.test_verify_shadowDom_byjs.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_Lab169_PyTest_Learning_Allure Report.test_createbooking_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_Lab171_pytest_GET.test_get_request_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_Lab174_Pytest_POST.test_create_booking_negative_tc02.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_Lab174_Pytest_POST.test_create_booking_positive_tc01.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_Lab175_Pytest_POST_Create Token.test_create_token_positive_tc01.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_Lab176_Pytest_PUT.test_delete_booking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_Lab176_Pytest_PUT.test_put_request.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_Lab177_Pytest_Task#1.test_delete_booking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_Lab177_Pytest_Task#1.test_deleted_bookingid.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_Lab178_Pytest_Task#2.test_Update_Patch_request.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_Lab178_Pytest_Task#2.test_get_booking_all.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_Lab179_Fixture_Demo.test_Update.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_selenium.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_selenium.test_vwo_login2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_selenium.test_vwo_login3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_selenium2.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_selenium_Task.test_title_currentURL_espocrm.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_selenium_close_quit_commands.test_katalon_firefox.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_selenium_commands.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_selenium_commands2.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_selenium_locators.test_katalon_firefox.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_selenium_locators_miniproject.test_app_vwo_login_chrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_selenium_locators_options.test_katalon_chrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_selenium_miniproject.test_Katalon_Invalid_Login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_selenium_miniproject.test_Katalon_Text_Verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_web_tables_task.test_web_tables_ohrm.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_Lab178_Pytest_Task#2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001_Python_HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002_Python_Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_Python_Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007_Variables_Identifiers_Rules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008_Dynamically_Typed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014_Maths_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020_Built-in_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021_UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022_User_Input_Sum_Of_Two_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab024_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027_Escape_Charactors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028_Escape_Char.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029_Task 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030_Task 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab046_Task 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab047_if_else.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab048_Grade_Calc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab049_Task 1_Triangle Classifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab050_Task 2_Leap Year Checker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab051.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab052_For Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab053_For Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab054.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab055.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab056_While_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab057_For_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab058_For_break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab059_Question.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab060_Pass_Break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab061_Question.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab062_continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab063_Match_Statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab064_Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab065_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab066_Functions_Part2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab067_Functions_Part3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab068_Functions_Pass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab069_Functions_Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab070_Functions_input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab071_Functions_Types 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab072_Functions_Interview_Questions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab073_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab074_Args.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab075_Real_exmpl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab076.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab077.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab078_Local_Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab079_Inner_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab080_Decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab081_Decorarors_part2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab081_Decorators_part2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab082_without_Decoraror.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab083_Real_example_Decorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab084_Multiple_Decorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab085_Type_Conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab086_Task_For_Double loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab087_Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab088_Lambda 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab089_Lambda 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab090_Lambda4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab091_Lambda_Multiple_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab092_Lambda_Multiple_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab093_Lambda_real_use.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab094_List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab095_List_Reassigning_values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab096_List_for_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab097_List_Index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab098_List_append().executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab099_List_extend().executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab100_List_insert().executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab101_List_remove().executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab102_List_Sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab103_List_pop().executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab104_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab105_Tuple 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab106_Tuple3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab107_SET 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab107_SET.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab109_SET 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab110_SET_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab111_Dict..executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab112_Dict_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab113_Multiple_Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab114_Multiple_Dict_Question.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab115_Dict_Concepts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab116_Dict_Interview Question.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab117_Dict_Missing_Key.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab118_Dict_Interview Question.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab119_Dict_Interview Question.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab120_Dict_Question.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab121_Dict_Question.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab122_Dict_Interview Question.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab123_Oops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab123_Oops_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab124_Class_Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab125_Class_Constructor2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab126_Class_Constructor3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab127_Question_Calc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab128_Question_Calc with PC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab129_Task 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab131_Oops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab132_Login Page.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab133_Oops_Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab134_Encap_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab135_Encap_Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab136_Inheritance_Single.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab137_Inheritance_Multilevel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab138_Inheritance_Multiple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab139_Inheritance_hierarchical.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab140_Inheritance_Real_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab141_Polymorphism_Method Overloading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab142_Polymorphism_Method Overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab143_Polymorphism_Method Overriding_Real Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab144_Abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab145_Oops_Abstraction2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab146_Oops_Abstraction3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab147_Oops_Abstraction4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab148_Oops_Static Method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab149_Oops_Static Method2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab150_Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab151_Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab152_Exceptions2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab153_Exceptions_else_finally.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab154_Modules in Python_OS Module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab155_Exceptions_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab156_Exceptions_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab157_file_io.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab158_Custom_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab159_main_method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab160_main_method2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab161.CSV_files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab162.CSV_files_using pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab163_Modules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab164_Modules2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab165_Import From.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab166_Import From2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conftest.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/PyATB5xLearning/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan\ex12_27012025_Selenium_JSExecutor_ShodowDOM" />
@@ -348,7 +301,29 @@
       <recent name="C:\Users\HP\PycharmProjects\PyATB5xLearning\Jan_2025\ex_21012025_Selenium_Waits" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test29_Selenium_JS_Executor_shadowDom.test_verify_shadowDom_byjs">
+  <component name="RunManager" selected="Python.Lab107_SET">
+    <configuration name="Lab107_SET" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov_2024/ex_23112024_Lambda_List_Tuple_SET" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov_2024/ex_23112024_Lambda_List_Tuple_SET/Lab107_SET.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -363,40 +338,6 @@
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test23_Selenium_Iframe.test_verify_action_iframe" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex10_23012025_Selenium_Actions_Windows_iframe_JS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test23_Selenium_Iframe.test_verify_action_iframe&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test27_Selenium_JS_Executor.test_verify_js_scroll" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex12_27012025_Selenium_JSExecutor_ShodowDOM" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test27_Selenium_JS_Executor.test_verify_js_scroll&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -434,38 +375,55 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_web_tables_task.test_web_tables_ohrm" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_selenium_miniproject.test_Katalon_Invalid_Login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex06_21012025_Selenium_Web_tables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex02_09012025_Selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_web_tables_task.test_web_tables_ohrm&quot;" />
+      <option name="_new_target" value="&quot;test_selenium_miniproject.test_Katalon_Invalid_Login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_selenium_miniproject.test_Katalon_Text_Verification" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex02_09012025_Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_selenium_miniproject.test_Katalon_Text_Verification&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Lab107_SET" />
       <item itemvalue="Python tests.pytest for Dec.ex_28122024_PyTest.test_Lab169_PyTest_Learning_Allure.test_createbooking_positive" />
-      <item itemvalue="Python tests.pytest for test27_Selenium_JS_Executor.test_verify_js_scroll" />
       <item itemvalue="Python tests.pytest for test28_Selenium_JS_Executor2.test_verify_js_scroll" />
       <item itemvalue="Python tests.pytest for test29_Selenium_JS_Executor_shadowDom.test_verify_shadowDom_byjs" />
-      <item itemvalue="Python tests.pytest for test23_Selenium_Iframe.test_verify_action_iframe" />
-      <item itemvalue="Python tests.pytest for test_web_tables_task.test_web_tables_ohrm" />
+      <item itemvalue="Python tests.pytest for test_selenium_miniproject.test_Katalon_Invalid_Login" />
+      <item itemvalue="Python tests.pytest for test_selenium_miniproject.test_Katalon_Text_Verification" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_selenium_miniproject.test_Katalon_Invalid_Login" />
+        <item itemvalue="Python tests.pytest for test_selenium_miniproject.test_Katalon_Text_Verification" />
+        <item itemvalue="Python.Lab107_SET" />
         <item itemvalue="Python tests.pytest for test29_Selenium_JS_Executor_shadowDom.test_verify_shadowDom_byjs" />
         <item itemvalue="Python tests.pytest for test28_Selenium_JS_Executor2.test_verify_js_scroll" />
-        <item itemvalue="Python tests.pytest for test27_Selenium_JS_Executor.test_verify_js_scroll" />
-        <item itemvalue="Python tests.pytest for test_web_tables_task.test_web_tables_ohrm" />
-        <item itemvalue="Python tests.pytest for test23_Selenium_Iframe.test_verify_action_iframe" />
       </list>
     </recent_temporary>
   </component>
@@ -661,7 +619,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737550325974</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="27th Jan">
+      <option name="closed" value="true" />
+      <created>1738140464491</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1738140464491</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -686,6 +652,7 @@
     <MESSAGE value="11th Jan" />
     <MESSAGE value="16th Jan" />
     <MESSAGE value="21st Jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="21st Jan" />
+    <MESSAGE value="27th Jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="27th Jan" />
   </component>
 </project>

@@ -24,7 +24,7 @@ print(chow_ref.name, "-->", chow_ref.breed)
 chow_ref.sleep()
 print(
     id(chow_ref))  # id - Return the identity of an object.This is guaranteed to be unique among simultaneously existing objects.
-# (CPython uses the object's memory address.)
+# (Python uses the object's memory address.)
 
 print("-------------------------------------------")
 Mow_ref = Dog("Mow", "German Shephard")
